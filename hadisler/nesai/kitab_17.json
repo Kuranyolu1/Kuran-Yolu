@@ -1,0 +1,746 @@
+[
+  {
+    "ref": "nesai:1504",
+    "url": "https://sunnetimiz.com/nesai:1504",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 17,
+      "title": "Yağmur Duası (İstiskâ)",
+      "title_ar": "كتاب الاستسقاء"
+    },
+    "bab": null,
+    "number": "1504",
+    "turkish": null,
+    "arabic": "أَخْبَرَنَا قُتَيْبَةُ بْنُ سَعِيدٍ، عَنْ مَالِكٍ، عَنْ شَرِيكِ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي نَمِرٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ جَاءَ رَجُلٌ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ هَلَكَتِ الْمَوَاشِي وَانْقَطَعَتِ السُّبُلُ فَادْعُ اللَّهَ عَزَّ وَجَلَّ ‏.‏ فَدَعَا رَسُولُ اللَّهِ صلى الله عليه وسلم فَمُطِرْنَا مِنَ الْجُمُعَةِ إِلَى الْجُمُعَةِ فَجَاءَ رَجُلٌ إِلَى رَسُولِ اللَّهِ صلى الله عليه وسلم فَقَالَ يَا رَسُولَ اللَّهِ تَهَدَّمَتِ الْبُيُوتُ وَانْقَطَعَتِ السُّبُلُ وَهَلَكَتِ الْمَوَاشِي ‏.‏ فَقَالَ ‏ \"‏ اللَّهُمَّ عَلَى رُءُوسِ الْجِبَالِ وَالآكَامِ وَبُطُونِ الأَوْدِيَةِ وَمَنَابِتِ الشَّجَرِ ‏\"‏ ‏.‏ فَانْجَابَتْ عَنِ الْمَدِينَةِ انْجِيَابَ الثَّوْبِ ‏.‏",
+    "grade": {
+      "label": "Hasen-Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Hasan Sahih",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1505",
+    "url": "https://sunnetimiz.com/nesai:1505",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 17,
+      "title": "Yağmur Duası (İstiskâ)",
+      "title_ar": "كتاب الاستسقاء"
+    },
+    "bab": null,
+    "number": "1505",
+    "turkish": "Ezanın okunma şeklini rüyasında gören Abdullah b. Zeyd (radıyallahü anh)’den rivâyete göre, şöyle demiştir: “ Rasûlullah (sallallahü aleyhi ve sellem) yağmur duası için mescide çıktı, kıbleye döndü, elbisesini ters çevirdi ve iki rekat namaz kıldı.” ( Buhârî , İstiska : 1)",
+    "arabic": "أَخْبَرَنِي مُحَمَّدُ بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا سُفْيَانُ، قَالَ حَدَّثَنَا الْمَسْعُودِيُّ، عَنْ أَبِي بَكْرِ بْنِ عَمْرِو بْنِ حَزْمٍ، عَنْ عَبَّادِ بْنِ تَمِيمٍ، - قَالَ سُفْيَانُ فَسَأَلْتُ عَبْدَ اللَّهِ بْنَ أَبِي بَكْرٍ فَقَالَ سَمِعْتُهُ مِنْ، عَبَّادِ بْنِ تَمِيمٍ يُحَدِّثُ أَبِي - أَنَّ عَبْدَ اللَّهِ بْنَ زَيْدٍ الَّذِي، أُرِيَ النِّدَاءَ قَالَ إِنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم خَرَجَ إِلَى الْمُصَلَّى يَسْتَسْقِي فَاسْتَقْبَلَ الْقِبْلَةَ وَقَلَبَ رِدَاءَهُ وَصَلَّى رَكْعَتَيْنِ ‏.‏ قَالَ أَبُو عَبْدِ الرَّحْمَنِ هَذَا غَلَطٌ مِنِ ابْنِ عُيَيْنَةَ وَعَبْدُ اللَّهِ بْنُ زَيْدٍ الَّذِي أُرِيَ النِّدَاءَ هُوَ عَبْدُ اللَّهِ بْنُ زَيْدِ بْنِ عَبْدِ رَبِّهِ وَهَذَا عَبْدُ اللَّهِ بْنُ زَيْدِ بْنِ عَاصِمٍ ‏.‏",
+    "grade": {
+      "label": "Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Sahih",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1506",
+    "url": "https://sunnetimiz.com/nesai:1506",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 17,
+      "title": "Yağmur Duası (İstiskâ)",
+      "title_ar": "كتاب الاستسقاء"
+    },
+    "bab": {
+      "number": 1,
+      "title_ar": "بَابُ الْحَالِ الَّتِي يُسْتَحَبُّ لِلْإِمَامِ أَنْ يَكُونَ عَلَيْهَا إِذَا خَرَجَ"
+    },
+    "number": "1506",
+    "turkish": "Hişam b. İshak b. Abdullah b. Kinane (radıyallahü anh), babasından naklederek şöyle diyor: Filan kimse beni, Rasûlullah (sallallahü aleyhi ve sellem)’in yağmur duası namazı hakkında bilgi edinmem için İbn Abbas’a göndermişti. O da şu bilgileri verdi. Rasûlullah (sallallahü aleyhi ve sellem) yalvararak, alçak gönüllü, üstü başı perişan vaziyette yağmur duasına çıktı. Hutbesi sizin yaptığınız bu hutbe gibi değildi. Hutbeden sonra iki rekat namaz kıldırdı. ( Tirmizî , Sefer: 395; Müslim, İstiska : 1)",
+    "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ مَنْصُورٍ، وَمُحَمَّدُ بْنُ الْمُثَنَّى، عَنْ عَبْدِ الرَّحْمَنِ، عَنْ سُفْيَانَ، عَنْ هِشَامِ بْنِ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ بْنِ كِنَانَةَ، عَنْ أَبِيهِ، قَالَ أَرْسَلَنِي فُلاَنٌ إِلَى ابْنِ عَبَّاسٍ أَسْأَلُهُ عَنْ صَلاَةِ، رَسُولِ اللَّهِ صلى الله عليه وسلم فِي الاِسْتِسْقَاءِ فَقَالَ خَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم مُتَضَرِّعًا مُتَوَاضِعًا مُتَبَذِّلاً فَلَمْ يَخْطُبْ نَحْوَ خُطْبَتِكُمْ هَذِهِ فَصَلَّى رَكْعَتَيْنِ ‏.‏",
+    "grade": {
+      "label": "Hasen",
+      "by": "el-Elbânî",
+      "tone": "hasan"
+    },
+    "grade_source": {
+      "grade": "Hasan",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1507",
+    "url": "https://sunnetimiz.com/nesai:1507",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 17,
+      "title": "Yağmur Duası (İstiskâ)",
+      "title_ar": "كتاب الاستسقاء"
+    },
+    "bab": {
+      "number": 1,
+      "title_ar": "بَابُ الْحَالِ الَّتِي يُسْتَحَبُّ لِلْإِمَامِ أَنْ يَكُونَ عَلَيْهَا إِذَا خَرَجَ"
+    },
+    "number": "1507",
+    "turkish": "Abdullah b. Zeyd (radıyallahü anh)’den rivâyete göre, Rasûlullah (sallallahü aleyhi ve sellem) yağmur duası için çıkarken üzerinde desenli siyah bir elbisesi vardı. ( Ebû Davud , Salat : 258; Muvatta ', İstiska : 1)",
+    "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا عَبْدُ الْعَزِيزِ، عَنْ عُمَارَةَ بْنِ غَزِيَّةَ، عَنْ عَبَّادِ بْنِ تَمِيمٍ، عَنْ عَبْدِ اللَّهِ بْنِ زَيْدٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم اسْتَسْقَى وَعَلَيْهِ خَمِيصَةٌ سَوْدَاءُ ‏.‏",
+    "grade": {
+      "label": "Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Sahih",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1508",
+    "url": "https://sunnetimiz.com/nesai:1508",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 17,
+      "title": "Yağmur Duası (İstiskâ)",
+      "title_ar": "كتاب الاستسقاء"
+    },
+    "bab": {
+      "number": 2,
+      "title_ar": "بَابُ جُلُوسِ الْإِمَامِ عَلَى الْمِنْبَرِ لِلِاسْتِسْقَاءِ"
+    },
+    "number": "1508",
+    "turkish": "Hişam b. İshak b. Abdullah b. Kinane (radıyallahü anh), babasından naklediyor ve diyor ki: İbn Abbas’a Rasûlullah (sallallahü aleyhi ve sellem)’in yağmur duası için nasıl namaz kıldığını sordum. Şöyle cevap verdi: “ Rasûlullah (sallallahü aleyhi ve sellem)’in yağmur duasına çıkarken üstü başı perişan bir vaziyette, alçak gönüllü, yalvararak çıkar minbere oturur ve hutbe okurdu, fakat bu hutbesi sizin hutbeniz gibi değildi. Onun hutbesi dua, yalvarış ve tekbir getirmekten ibaretti, namazı da bayram namazı gibi iki rekat olarak kılardı.” ( Tirmizî , Sefer: 395; İbn Mâce , İkametü’s Salat : 153)",
+    "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عُبَيْدِ بْنِ مُحَمَّدٍ، قَالَ حَدَّثَنَا حَاتِمُ بْنُ إِسْمَاعِيلَ، عَنْ هِشَامِ بْنِ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ بْنِ كِنَانَةَ، عَنْ أَبِيهِ، قَالَ سَأَلْتُ ابْنَ عَبَّاسٍ عَنْ صَلاَةِ، رَسُولِ اللَّهِ صلى الله عليه وسلم فِي الاِسْتِسْقَاءِ فَقَالَ خَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم مُتَبَذِّلاً مُتَوَاضِعًا مُتَضَرِّعًا فَجَلَسَ عَلَى الْمِنْبَرِ فَلَمْ يَخْطُبْ خُطْبَتَكُمْ هَذِهِ وَلَكِنْ لَمْ يَزَلْ فِي الدُّعَاءِ وَالتَّضَرُّعِ وَالتَّكْبِيرِ وَصَلَّى رَكْعَتَيْنِ كَمَا كَانَ يُصَلِّي فِي الْعِيدَيْنِ ‏.‏",
+    "grade": {
+      "label": "Hasen",
+      "by": "el-Elbânî",
+      "tone": "hasan"
+    },
+    "grade_source": {
+      "grade": "Hasan",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1509",
+    "url": "https://sunnetimiz.com/nesai:1509",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 17,
+      "title": "Yağmur Duası (İstiskâ)",
+      "title_ar": "كتاب الاستسقاء"
+    },
+    "bab": {
+      "number": 2,
+      "title_ar": "بَابُ جُلُوسِ الْإِمَامِ عَلَى الْمِنْبَرِ لِلِاسْتِسْقَاءِ"
+    },
+    "number": "1509",
+    "turkish": "Abbad b. Temim (radıyallahü anh)’e amcası şunları anlattı: “ Rasûlullah (sallallahü aleyhi ve sellem) ile birlikte yağmur duasına çıkmıştım. Rasûlullah (sallallahü aleyhi ve sellem) elbisesini ters çevirdi. Arkasını da cemaate dönerek dua etti. Sonra iki rekat namaz kıldı ve namazında sesli okudu.” ( İbn Mâce , İkametü’s Salat : 153; Ebû Davud , Salat : 258)",
+    "arabic": "أَخْبَرَنِي عَمْرُو بْنُ عُثْمَانَ، قَالَ حَدَّثَنَا الْوَلِيدُ، عَنِ ابْنِ أَبِي ذِئْبٍ، عَنِ الزُّهْرِيِّ، عَنْ عَبَّادِ بْنِ تَمِيمٍ، أَنَّ عَمَّهُ، حَدَّثَهُ أَنَّهُ، خَرَجَ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم يَسْتَسْقِي فَحَوَّلَ رِدَاءَهُ وَحَوَّلَ لِلنَّاسِ ظَهْرَهُ وَدَعَا ثُمَّ صَلَّى رَكْعَتَيْنِ فَقَرَأَ فَجَهَرَ ‏.‏",
+    "grade": {
+      "label": "Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Sahih",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1510",
+    "url": "https://sunnetimiz.com/nesai:1510",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 17,
+      "title": "Yağmur Duası (İstiskâ)",
+      "title_ar": "كتاب الاستسقاء"
+    },
+    "bab": {
+      "number": 2,
+      "title_ar": "بَابُ جُلُوسِ الْإِمَامِ عَلَى الْمِنْبَرِ لِلِاسْتِسْقَاءِ"
+    },
+    "number": "1510",
+    "turkish": "Abbad b. Temim (radıyallahü anh), amcasından naklediyor: “Peygamber (sallallahü aleyhi ve sellem) yağmur duası için çıkmıştı ve iki rekat namaz kıldı ve elbisesini de ters çevirdi.” ( İbn Mâce , İkametü’s Salat : 153; Ebû Davud , Salat : 258)",
+    "arabic": "أَخْبَرَنَا قُتَيْبَةُ، عَنْ سُفْيَانَ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرٍ، عَنْ عَبَّادِ بْنِ تَمِيمٍ، عَنْ عَمِّهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم اسْتَسْقَى وَصَلَّى رَكْعَتَيْنِ وَقَلَبَ رِدَاءَهُ ‏.‏",
+    "grade": {
+      "label": "Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Sahih",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1511",
+    "url": "https://sunnetimiz.com/nesai:1511",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 17,
+      "title": "Yağmur Duası (İstiskâ)",
+      "title_ar": "كتاب الاستسقاء"
+    },
+    "bab": {
+      "number": 2,
+      "title_ar": "بَابُ جُلُوسِ الْإِمَامِ عَلَى الْمِنْبَرِ لِلِاسْتِسْقَاءِ"
+    },
+    "number": "1511",
+    "turkish": "Abdullah b. Zeyd (radıyallahü anh) şöyle demiştir: “ Rasûlullah (sallallahü aleyhi ve sellem) yağmur duası için çıkmıştı. Kıbleye yöneldiğinde elbisesini ters çevirmişti.” ( Buhârî , İstiska : 1; İbn Mâce , İkametü’s Salat : 153)",
+    "arabic": "أَخْبَرَنَا قُتَيْبَةُ، عَنْ مَالِكٍ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرٍ، أَنَّهُ سَمِعَ عَبَّادَ بْنَ تَمِيمٍ، يَقُولُ سَمِعْتُ عَبْدَ اللَّهِ بْنَ زَيْدٍ، يَقُولُ خَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَاسْتَسْقَى وَحَوَّلَ رِدَاءَهُ حِينَ اسْتَقْبَلَ الْقِبْلَةَ ‏.‏",
+    "grade": {
+      "label": "Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Sahih",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1512",
+    "url": "https://sunnetimiz.com/nesai:1512",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 17,
+      "title": "Yağmur Duası (İstiskâ)",
+      "title_ar": "كتاب الاستسقاء"
+    },
+    "bab": {
+      "number": 2,
+      "title_ar": "بَابُ جُلُوسِ الْإِمَامِ عَلَى الْمِنْبَرِ لِلِاسْتِسْقَاءِ"
+    },
+    "number": "1512",
+    "turkish": "Abbad b. Temim (radıyallahü anh), amcasından naklediyor: “ Rasûlullah (sallallahü aleyhi ve sellem)’i yağmur duasında gördüm, kıbleye döndü elbisesini ters çevirdi ve ellerini kaldırarak dua etti.” ( Ebû Davud , Salat : 257; İbn Mâce , İkametü’s Salat : 153)",
+    "arabic": "أَخْبَرَنَا هِشَامُ بْنُ عَبْدِ الْمَلِكِ أَبُو تَقِيٍّ الْحِمْصِيُّ، قَالَ حَدَّثَنَا بَقِيَّةُ، عَنْ شُعَيْبٍ، عَنِ الزُّهْرِيِّ، عَنْ عَبَّادِ بْنِ تَمِيمٍ، عَنْ عَمِّهِ، أَنَّهُ رَأَى رَسُولَ اللَّهِ صلى الله عليه وسلم فِي الاِسْتِسْقَاءِ اسْتَقْبَلَ الْقِبْلَةَ وَقَلَبَ الرِّدَاءَ وَرَفَعَ يَدَيْهِ ‏.‏",
+    "grade": {
+      "label": "Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Sahih",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1513",
+    "url": "https://sunnetimiz.com/nesai:1513",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 17,
+      "title": "Yağmur Duası (İstiskâ)",
+      "title_ar": "كتاب الاستسقاء"
+    },
+    "bab": {
+      "number": 2,
+      "title_ar": "بَابُ جُلُوسِ الْإِمَامِ عَلَى الْمِنْبَرِ لِلِاسْتِسْقَاءِ"
+    },
+    "number": "1513",
+    "turkish": "Enes (radıyallahü anh)’ten rivâyete göre, şöyle demiştir: “ Rasûlullah (sallallahü aleyhi ve sellem) yağmur duası dışında hiçbir duada ellerini kaldırmazdı. Burada da koltuklarının beyazlığı görünecek şekilde kaldırdı.” ( Buhârî , İstiska : 21; Dârimi , Salat : 189)",
+    "arabic": "أَخْبَرَنِي شُعَيْبُ بْنُ يُوسُفَ، عَنْ يَحْيَى بْنِ سَعِيدٍ الْقَطَّانِ، عَنْ سَعِيدٍ، عَنْ قَتَادَةَ، عَنْ أَنَسٍ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم لاَ يَرْفَعُ يَدَيْهِ فِي شَىْءٍ مِنَ الدُّعَاءِ إِلاَّ فِي الاِسْتِسْقَاءِ فَإِنَّهُ كَانَ يَرْفَعُ يَدَيْهِ حَتَّى يُرَى بَيَاضُ إِبْطَيْهِ ‏.‏",
+    "grade": {
+      "label": "Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Sahih",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1514",
+    "url": "https://sunnetimiz.com/nesai:1514",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 17,
+      "title": "Yağmur Duası (İstiskâ)",
+      "title_ar": "كتاب الاستسقاء"
+    },
+    "bab": {
+      "number": 2,
+      "title_ar": "بَابُ جُلُوسِ الْإِمَامِ عَلَى الْمِنْبَرِ لِلِاسْتِسْقَاءِ"
+    },
+    "number": "1514",
+    "turkish": "Âb- ıl Lahm (radıyallahü anh)’den rivâyete göre, şöyle demiştir: “Ben Rasûlullah (sallallahü aleyhi ve sellem)’i Ahcar -üz Zeyd denilen yerde ellerini kaldırmış durumda yağmur duası yaptığını gördüm.” ( Buhârî , İstiska : 21; Dârimi , Salat : 189)",
+    "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ خَالِدِ بْنِ يَزِيدَ، عَنْ سَعِيدِ بْنِ أَبِي هِلاَلٍ، عَنْ يَزِيدَ بْنِ عَبْدِ اللَّهِ، عَنْ عُمَيْرٍ، مَوْلَى آبِي اللَّحْمِ عَنْ آبِي اللَّحْمِ، أَنَّهُ رَأَى رَسُولَ اللَّهِ صلى الله عليه وسلم عِنْدَ أَحْجَارِ الزَّيْتِ يَسْتَسْقِي وَهُوَ مُقْنِعٌ بِكَفَّيْهِ يَدْعُو ‏.‏",
+    "grade": {
+      "label": "Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Sahih",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1515",
+    "url": "https://sunnetimiz.com/nesai:1515",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 17,
+      "title": "Yağmur Duası (İstiskâ)",
+      "title_ar": "كتاب الاستسقاء"
+    },
+    "bab": {
+      "number": 2,
+      "title_ar": "بَابُ جُلُوسِ الْإِمَامِ عَلَى الْمِنْبَرِ لِلِاسْتِسْقَاءِ"
+    },
+    "number": "1515",
+    "turkish": "Enes b. M ali k (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Cuma günü mescidde idik, Rasûlullah (sallallahü aleyhi ve sellem)’de hutbe okuyordu. Bir adam kalkarak şöyle dedi: “Ey Allah’ın Rasûlü ! yollarda hareket kalmadı, kimse gelip gitmiyor, hayvanlarımız helak oldu, memlekette kuraklık baş gösterdi, yağmur yağdırması için Allah’a dua et.” Bunun üzerine Rasûlullah (sallallahü aleyhi ve sellem) ellerini yüzü hizasına kadar kaldırarak şöyle dua etti: “Allah’ım, bize yağmur ver” Allah’a yemin olsun ki; daha Peygamber (sallallahü aleyhi ve sellem), minberden inmeden bol yağmura kavuştuk, o günden diğer Cumaya kadar yağmur yağmıştı. Ertesi Cuma bir adam daha kalktı -o adam mıydı bilmiyorum- Ey Allah’ın Rasûlü ! yollardan sular dolayısı ile yürünmüyor, mallarımız çok sudan dolayı mahvoldu. Yağmuru durdurması için Allah’a dua et dedi. Bunun üzerine Rasûlullah (sallallahü aleyhi ve sellem): “Allah’ım, bizim üzerimize değil çevremize gönder, dağlara, ormanlara yağdır” buyurdu. Enes diyor ki: Allah’a yemin olsun ki Rasûlullah (sallallahü aleyhi ve sellem) böyle dua eder etmez bulutlar parçalandı ve bulut görünmez oldu. ( Muvatta ', İstiska : 1; Ebû Davud , Salat : 260)",
+    "arabic": "أَخْبَرَنَا عِيسَى بْنُ حَمَّادٍ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ سَعِيدٍ، - وَهُوَ الْمَقْبُرِيُّ - عَنْ شَرِيكِ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي نَمِرٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّهُ سَمِعَهُ يَقُولُ بَيْنَا نَحْنُ فِي الْمَسْجِدِ يَوْمَ الْجُمُعَةِ وَرَسُولُ اللَّهِ صلى الله عليه وسلم يَخْطُبُ النَّاسَ فَقَامَ رَجُلٌ فَقَالَ يَا رَسُولَ اللَّهِ تَقَطَّعَتِ السُّبُلُ وَهَلَكَتِ الأَمْوَالُ وَأَجْدَبَ الْبِلاَدُ فَادْعُ اللَّهَ أَنْ يَسْقِيَنَا ‏.‏ فَرَفَعَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَدَيْهِ حِذَاءَ وَجْهِهِ فَقَالَ ‏\"‏ اللَّهُمَّ اسْقِنَا ‏\"‏ ‏.‏ فَوَاللَّهِ مَا نَزَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم عَنِ الْمِنْبَرِ حَتَّى أُوسِعْنَا مَطَرًا وَأُمْطِرْنَا ذَلِكَ الْيَوْمَ إِلَى الْجُمُعَةِ الأُخْرَى فَقَامَ رَجُلٌ - لاَ أَدْرِي هُوَ الَّذِي قَالَ لِرَسُولِ اللَّهِ صلى الله عليه وسلم اسْتَسْقِ لَنَا أَمْ لاَ - فَقَالَ يَا رَسُولَ اللَّهِ انْقَطَعَتِ السُّبُلُ وَهَلَكَتِ الأَمْوَالُ مِنْ كَثْرَةِ الْمَاءِ فَادْعُ اللَّهَ أَنْ يُمْسِكَ عَنَّا الْمَاءَ ‏.‏ فَقَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏\"‏ اللَّهُمَّ حَوَالَيْنَا وَلاَ عَلَيْنَا وَلَكِنْ عَلَى الْجِبَالِ وَمَنَابِتِ الشَّجَرِ ‏\"‏ ‏.‏ قَالَ وَاللَّهِ مَا هُوَ إِلاَّ أَنْ تَكَلَّمَ رَسُولُ اللَّهِ صلى الله عليه وسلم بِذَلِكَ تَمَزَّقَ السَّحَابُ حَتَّى مَا نَرَى مِنْهُ شَيْئًا ‏.‏",
+    "grade": {
+      "label": "Hasen-Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Hasan Sahih",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1516",
+    "url": "https://sunnetimiz.com/nesai:1516",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 17,
+      "title": "Yağmur Duası (İstiskâ)",
+      "title_ar": "كتاب الاستسقاء"
+    },
+    "bab": {
+      "number": 2,
+      "title_ar": "بَابُ جُلُوسِ الْإِمَامِ عَلَى الْمِنْبَرِ لِلِاسْتِسْقَاءِ"
+    },
+    "number": "1516",
+    "turkish": "Enes b. M ali k (radıyallahü anh)’ten rivâyete göre, Peygamber (sallallahü aleyhi ve sellem): “Allah’ım, bize yağmur ver” diye dua etti. (Müslim, İstiska : 2; İbn Mâce , İkametü’s Salat : 154)",
+    "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ بَشَّارٍ، قَالَ حَدَّثَنِي أَبُو هِشَامٍ الْمُغِيرَةُ بْنُ سَلَمَةَ، قَالَ حَدَّثَنِي وُهَيْبٌ، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم قَالَ ‏ \"‏ اللَّهُمَّ اسْقِنَا ‏\"‏ ‏.‏",
+    "grade": {
+      "label": "Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Sahih",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1517",
+    "url": "https://sunnetimiz.com/nesai:1517",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 17,
+      "title": "Yağmur Duası (İstiskâ)",
+      "title_ar": "كتاب الاستسقاء"
+    },
+    "bab": {
+      "number": 2,
+      "title_ar": "بَابُ جُلُوسِ الْإِمَامِ عَلَى الْمِنْبَرِ لِلِاسْتِسْقَاءِ"
+    },
+    "number": "1517",
+    "turkish": "Enes (radıyallahü anh)’ten rivâyete göre, şöyle demiştir: Rasûlullah (sallallahü aleyhi ve sellem) Cuma günü hutbe okurken bir kısım kimseler kalkıp şöyle bağırdılar. Ey Allah’ın Peygamberi! yağmurlar kesildi, hayvanlar helak oldu, bize yağmur vermesi için Allah’a dua et. Bunun üzerine Peygamberimiz (sallallahü aleyhi ve sellem): “Allah’ım bize yağmur ver. Allah’ım bize yağmur ver” diye dua etti. Enes diyor ki: Allah’a yemin ederim ki gökyüzünde hiçbir bulut yok iken bir bulut meydana geldi, etrafa dağılarak çoğaldı ve ondan yağmur yağdı. Rasûlullah (sallallahü aleyhi ve sellem) minberden inerek Cuma namazını kıldırdı ve insanlar dağıldılar, yağmur ertesi cumaya kadar devam etti. Ertesi Cuma Peygamber (sallallahü aleyhi ve sellem) tekrar hutbeye çıktığında bir kısım kimseler bağırarak: “Ey Allah’ın Peygamberi! binalar yıkıldı, yollar yağmurdan geçilmez oldu. Allah’a dua et de yağmuru kessin” dediler. Bunun üzerine Rasûlullah (sallallahü aleyhi ve sellem) tebessüm ederek şöyle dua etti: “Allah’ım bize değil çevremize ver” Medine’ye yağmur yağışı kesildi ve çevreye yağıyor, Medine’ye bir damla bile düşmüyordu. Medine ortada bir daire gibi kalmış çevreye yağıyordu. ( Buhârî , İstiska : 5; Muvatta ', İstiska : 2)",
+    "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا الْمُعْتَمِرُ، قَالَ سَمِعْتُ عُبَيْدَ اللَّهِ بْنَ عُمَرَ، - وَهُوَ الْعُمَرِيُّ - عَنْ ثَابِتٍ، عَنْ أَنَسٍ، قَالَ كَانَ النَّبِيُّ صلى الله عليه وسلم يَخْطُبُ يَوْمَ الْجُمُعَةِ فَقَامَ إِلَيْهِ النَّاسُ فَصَاحُوا فَقَالُوا يَا نَبِيَّ اللَّهِ قُحِطَتِ الْمَطَرُ وَهَلَكَتِ الْبَهَائِمُ فَادْعُ اللَّهَ أَنْ يَسْقِيَنَا ‏.‏ قَالَ ‏\"‏ اللَّهُمَّ اسْقِنَا اللَّهُمَّ اسْقِنَا ‏\"‏ ‏.‏ قَالَ وَايْمُ اللَّهِ مَا نَرَى فِي السَّمَاءِ قَزَعَةً مِنْ سَحَابٍ - قَالَ - فَأَنْشَأَتْ سَحَابَةٌ فَانْتَشَرَتْ ثُمَّ إِنَّهَا أُمْطِرَتْ وَنَزَلَ رَسُولُ اللَّهِ صلى الله عليه وسلم فَصَلَّى وَانْصَرَفَ النَّاسُ فَلَمْ تَزَلْ تَمْطُرُ إِلَى يَوْمِ الْجُمُعَةِ الأُخْرَى فَلَمَّا قَامَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَخْطُبُ صَاحُوا إِلَيْهِ فَقَالُوا يَا نَبِيَّ اللَّهِ تَهَدَّمَتِ الْبُيُوتُ وَتَقَطَّعَتِ السُّبُلُ فَادْعُ اللَّهَ أَنْ يَحْبِسَهَا عَنَّا ‏.‏ فَتَبَسَّمَ رَسُولُ اللَّهِ صلى الله عليه وسلم وَقَالَ ‏\"‏ اللَّهُمَّ حَوَالَيْنَا وَلاَ عَلَيْنَا ‏\"‏ ‏.‏ فَتَقَشَّعَتْ عَنِ الْمَدِينَةِ فَجَعَلَتْ تَمْطُرُ حَوْلَهَا وَمَا تَمْطُرُ بِالْمَدِينَةِ قَطْرَةً فَنَظَرْتُ إِلَى الْمَدِينَةِ وَإِنَّهَا لَفِي مِثْلِ الإِكْلِيلِ ‏.‏",
+    "grade": {
+      "label": "Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Sahih",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1518",
+    "url": "https://sunnetimiz.com/nesai:1518",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 17,
+      "title": "Yağmur Duası (İstiskâ)",
+      "title_ar": "كتاب الاستسقاء"
+    },
+    "bab": {
+      "number": 2,
+      "title_ar": "بَابُ جُلُوسِ الْإِمَامِ عَلَى الْمِنْبَرِ لِلِاسْتِسْقَاءِ"
+    },
+    "number": "1518",
+    "turkish": "Enes b. M ali k (radıyallahü anh) anlatıyor: Rasûlullah (sallallahü aleyhi ve sellem) Mescidde ayakta hutbe okurken bir adam geldi. Rasûlullah (sallallahü aleyhi ve sellem)’e yönelerek ayakta şöyle dedi: “Ey Allah’ın Rasûlü ! kuraklıktan hayvanlarımız helak oldu, yollarda hareket kalmadı, kimse gelip gitmiyor, yağmur vermesi için Allah’a dua et. Rasûlullah (sallallahü aleyhi ve sellem) ellerini kaldırarak şöyle devam etti: “Allah’ım! bize hayırlı yağmurlar ver. Allah’ım, bize hayırlı yağmurlar ver.” Enes diyor ki: Allah’a yemin olsun ki gökyüzünde ne bir bulut ne de buluttan bir parça vardı. Sel’ dağı ile aramızda hiçbir ev yoktu ki bulutları görmemize engel olsun. Semada kalkan gibi bulutlar meydana geldi, tam ortalanınca etrafa dağıldılar ve yağmaya başladı. Enes diyor ki: Allah’a yemin olsun ki bir hafta boyu güneşi göremedik. Ertesi Cuma mescidin aynı kapısından bir adam girdi, Rasûlullah (sallallahü aleyhi ve sellem) ayakta hutbe okuyordu o kimse ayakta Peygambere dönerek: “Ey Allah’ın Rasûlü ! salat ve selâm senin üzerine olsun, iş sana düşüyor. Mallarımız helak oldu, yollar sulardan yürünmez oldu, yağmuru kesmesi için Allah’a dua et” dedi. Rasûlullah (sallallahü aleyhi ve sellem) elini kaldırdı ve şöyle dua etti: “Allah’ım bize değil çevremize ver. Allah’ım bu yağmuru dağlara, tepelere, vadilere ve ormanlara ver.” Enes diyor ki: Bulutlar hemen dağıldı mescidden çıkıp güneşte yürüdük. Şerik diyor ki: Enes’e sordum, “O adam önceki yağmur isteyen adam mıydı?” O da: “Hayır” diye cevap verdi. ( Muvatta ', İstiska : 2; Ebû Davud , Salat : 260)",
+    "arabic": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ، قَالَ حَدَّثَنَا إِسْمَاعِيلُ بْنُ جَعْفَرٍ، قَالَ حَدَّثَنَا شَرِيكُ بْنُ عَبْدِ اللَّهِ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّ رَجُلاً، دَخَلَ الْمَسْجِدَ وَرَسُولُ اللَّهِ صلى الله عليه وسلم قَائِمٌ يَخْطُبُ فَاسْتَقْبَلَ رَسُولَ اللَّهِ صلى الله عليه وسلم قَائِمًا وَقَالَ يَا رَسُولَ اللَّهِ هَلَكَتِ الأَمْوَالُ وَانْقَطَعَتِ السُّبُلُ فَادْعُ اللَّهَ أَنْ يُغِيثَنَا ‏.‏ فَرَفَعَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَدَيْهِ ثُمَّ قَالَ ‏\"‏ اللَّهُمَّ أَغِثْنَا اللَّهُمَّ أَغِثْنَا ‏\"‏ ‏.‏ قَالَ أَنَسٌ وَلاَ وَاللَّهِ مَا نَرَى فِي السَّمَاءِ مِنْ سَحَابَةٍ وَلاَ قَزَعَةٍ وَمَا بَيْنَنَا وَبَيْنَ سَلْعٍ مِنْ بَيْتٍ وَلاَ دَارٍ فَطَلَعَتْ سَحَابَةٌ مِثْلُ التُّرْسِ فَلَمَّا تَوَسَّطَتِ السَّمَاءَ انْتَشَرَتْ وَأَمْطَرَتْ ‏.‏ قَالَ أَنَسٌ وَلاَ وَاللَّهِ مَا رَأَيْنَا الشَّمْسَ سَبْتًا ‏.‏ قَالَ ثُمَّ دَخَلَ رَجُلٌ مِنْ ذَلِكَ الْبَابِ فِي الْجُمُعَةِ الْمُقْبِلَةِ وَرَسُولُ اللَّهِ صلى الله عليه وسلم قَائِمٌ يَخْطُبُ فَاسْتَقْبَلَهُ قَائِمًا فَقَالَ يَا رَسُولَ اللَّهِ صَلَّى اللَّهُ وَسَلَّمَ عَلَيْكَ هَلَكَتِ الأَمْوَالُ وَانْقَطَعَتِ السُّبُلُ فَادْعُ اللَّهَ أَنْ يُمْسِكَهَا عَنَّا ‏.‏ فَرَفَعَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَدَيْهِ فَقَالَ ‏\"‏ اللَّهُمَّ حَوَالَيْنَا وَلاَ عَلَيْنَا اللَّهُمَّ عَلَى الآكَامِ وَالظِّرَابِ وَبُطُونِ الأَوْدِيَةِ وَمَنَابِتِ الشَّجَرِ ‏\"‏ ‏.‏ قَالَ فَأَقْلَعَتْ وَخَرَجْنَا نَمْشِي فِي الشَّمْسِ ‏.‏ قَالَ شَرِيكٌ سَأَلْتُ أَنَسًا أَهُوَ الرَّجُلُ الأَوَّلُ قَالَ لاَ ‏.‏",
+    "grade": {
+      "label": "Hasen-Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Hasan Sahih",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1519",
+    "url": "https://sunnetimiz.com/nesai:1519",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 17,
+      "title": "Yağmur Duası (İstiskâ)",
+      "title_ar": "كتاب الاستسقاء"
+    },
+    "bab": {
+      "number": 3,
+      "title_ar": "بَابُ الصَّلَاةِ بَعْدَ الدُّعَاءِ"
+    },
+    "number": "1519",
+    "turkish": "Rasûlullah (sallallahü aleyhi ve sellem)’in ashabından Abbad b. Temim (radıyallahü anh), amcasından amcasından ajbajnbaa naklediyor ve diyor ki: Rasûlullah (sallallahü aleyhi ve sellem) bir gün yağmur duasına çıktı, insanlara sırtını dönmüş (bir vaziyette) yüzü kıbleye doğru idi, elbisesini ters giymiş vaziyette dua etti sonra iki rekat namaz kıldı. Ravilerden İbn ebî Zi’b : “Her iki rekatte de zammı sûre okudu” dedi. ( Ebû Davud , Salat : 259; İbn Mâce , İkametü’s Salat : 153)",
+    "arabic": "قَالَ الْحَارِثُ بْنُ مِسْكِينٍ قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، عَنِ ابْنِ وَهْبٍ، عَنِ ابْنِ أَبِي ذِئْبٍ، وَيُونُسَ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي عَبَّادُ بْنُ تَمِيمٍ، أَنَّهُ سَمِعَ عَمَّهُ، وَكَانَ، مِنْ أَصْحَابِ رَسُولِ اللَّهِ صلى الله عليه وسلم يَقُولُ خَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَوْمًا يَسْتَسْقِي فَحَوَّلَ إِلَى النَّاسِ ظَهْرَهُ يَدْعُو اللَّهَ وَيَسْتَقْبِلُ الْقِبْلَةَ وَحَوَّلَ رِدَاءَهُ ثُمَّ صَلَّى رَكْعَتَيْنِ ‏.‏ قَالَ ابْنُ أَبِي ذِئْبٍ فِي الْحَدِيثِ وَقَرَأَ فِيهِمَا ‏.‏",
+    "grade": {
+      "label": "Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Sahih",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1520",
+    "url": "https://sunnetimiz.com/nesai:1520",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 17,
+      "title": "Yağmur Duası (İstiskâ)",
+      "title_ar": "كتاب الاستسقاء"
+    },
+    "bab": {
+      "number": 3,
+      "title_ar": "بَابُ الصَّلَاةِ بَعْدَ الدُّعَاءِ"
+    },
+    "number": "1520",
+    "turkish": "Abdullah b. Zeyd (radıyallahü anh)’ten rivâyete göre: “Peygamber (sallallahü aleyhi ve sellem) yağmur duası için çıktı, kıbleye yönelerek iki rekat namaz kıldı.” ( Buhârî , İstiska : 1; İbn Mâce , İkametü’s Salat : 153)",
+    "arabic": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، عَنْ يَحْيَى، عَنْ أَبِي بَكْرِ بْنِ مُحَمَّدٍ، عَنْ عَبَّادِ بْنِ تَمِيمٍ، عَنْ عَبْدِ اللَّهِ بْنِ زَيْدٍ، أَنَّ النَّبِيَّ صلى الله عليه وسلم خَرَجَ يَسْتَسْقِي فَصَلَّى رَكْعَتَيْنِ وَاسْتَقْبَلَ الْقِبْلَةَ ‏.‏",
+    "grade": {
+      "label": "Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Sahih",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1521",
+    "url": "https://sunnetimiz.com/nesai:1521",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 17,
+      "title": "Yağmur Duası (İstiskâ)",
+      "title_ar": "كتاب الاستسقاء"
+    },
+    "bab": {
+      "number": 3,
+      "title_ar": "بَابُ الصَّلَاةِ بَعْدَ الدُّعَاءِ"
+    },
+    "number": "1521",
+    "turkish": "Hişam b. İshak b. Abdullah b. Kinane (radıyallahü anh), babasından naklederek şöyle diyor: V ali lerden biri beni İbn Abbas’a yağmur duası hakkında bilgi almaya gönderdi. İbn Abbas : “Niçin kendisi sormuyor da seni gönderiyor” diyerek şöyle anlattı: “ Rasûlullah (sallallahü aleyhi ve sellem), alçak gönüllü olarak, üstü başı perişan bir durumda, huşu içerisinde, yalvararak yağmur duasına çıktı. Bayram namazları gibi iki rekat namaz kıldırdı. Sizin bugünkü hutbeleriniz gibi olmayan bir hutbe yaptı.” ( İbn Mâce , İkametü’s Salat : 153; Tirmizî , Sefer: 395)",
+    "arabic": "أَخْبَرَنَا مَحْمُودُ بْنُ غَيْلاَنَ، قَالَ حَدَّثَنَا وَكِيعٌ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ هِشَامِ بْنِ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ بْنِ كِنَانَةَ، عَنْ أَبِيهِ، قَالَ أَرْسَلَنِي أَمِيرٌ مِنَ الأُمَرَاءِ إِلَى ابْنِ عَبَّاسٍ أَسْأَلُهُ عَنْ الاِسْتِسْقَاءِ، فَقَالَ ابْنُ عَبَّاسٍ مَا مَنَعَهُ أَنْ يَسْأَلَنِي، خَرَجَ رَسُولُ اللَّهِ صلى الله عليه وسلم مُتَوَاضِعًا مُتَبَذِّلاً مُتَخَشِّعًا مُتَضَرِّعًا فَصَلَّى رَكْعَتَيْنِ كَمَا يُصَلِّي فِي الْعِيدَيْنِ وَلَمْ يَخْطُبْ خُطْبَتَكُمْ هَذِهِ ‏.‏",
+    "grade": {
+      "label": "Hasen",
+      "by": "el-Elbânî",
+      "tone": "hasan"
+    },
+    "grade_source": {
+      "grade": "Hasan",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1522",
+    "url": "https://sunnetimiz.com/nesai:1522",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 17,
+      "title": "Yağmur Duası (İstiskâ)",
+      "title_ar": "كتاب الاستسقاء"
+    },
+    "bab": {
+      "number": 4,
+      "title_ar": "بَابُ الْجَهْرِ بِالْقِرَاءَةِ فِي صَلَاةِ الِاسْتِسْقَاءِ"
+    },
+    "number": "1522",
+    "turkish": "Abbad b. Temim amcasından naklediyor: “ Rasûlullah (sallallahü aleyhi ve sellem) yağmur duası için çıkmıştı, iki rekat namaz kıldı ve okuyuşunu sesli yaptı.” ( Ebû Davud , Salat : 259; İbn Mâce , İkametü’s Salat : 153)",
+    "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ رَافِعٍ، قَالَ حَدَّثَنَا يَحْيَى بْنُ آدَمَ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنِ ابْنِ أَبِي ذِئْبٍ، عَنِ الزُّهْرِيِّ، عَنْ عَبَّادِ بْنِ تَمِيمٍ، عَنْ عَمِّهِ، أَنَّ النَّبِيَّ صلى الله عليه وسلم خَرَجَ فَاسْتَسْقَى فَصَلَّى رَكْعَتَيْنِ جَهَرَ فِيهِمَا بِالْقِرَاءَةِ ‏.‏",
+    "grade": {
+      "label": "Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Sahih",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1523",
+    "url": "https://sunnetimiz.com/nesai:1523",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 17,
+      "title": "Yağmur Duası (İstiskâ)",
+      "title_ar": "كتاب الاستسقاء"
+    },
+    "bab": {
+      "number": 4,
+      "title_ar": "بَابُ الْجَهْرِ بِالْقِرَاءَةِ فِي صَلَاةِ الِاسْتِسْقَاءِ"
+    },
+    "number": "1523",
+    "turkish": "Aişe (radıyallahü anha)’dan rivâyete göre, Rasûlullah (sallallahü aleyhi ve sellem) yağmur yağdığında: “Allah’ım! Bu yağmuru bize faydalı kıl.” derdi. ( Buhârî , istiska : 22; Müslim, İstiska : 2)",
+    "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ مَنْصُورٍ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ مِسْعَرٍ، عَنِ الْمِقْدَامِ بْنِ شُرَيْحٍ، عَنْ أَبِيهِ، عَنْ عَائِشَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم كَانَ إِذَا أُمْطِرَ قَالَ ‏ \"‏ اللَّهُمَّ اجْعَلْهُ صَيِّبًا نَافِعًا ‏\"‏ ‏.‏",
+    "grade": {
+      "label": "Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Sahih",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1524",
+    "url": "https://sunnetimiz.com/nesai:1524",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 17,
+      "title": "Yağmur Duası (İstiskâ)",
+      "title_ar": "كتاب الاستسقاء"
+    },
+    "bab": {
+      "number": 4,
+      "title_ar": "بَابُ الْجَهْرِ بِالْقِرَاءَةِ فِي صَلَاةِ الِاسْتِسْقَاءِ"
+    },
+    "number": "1524",
+    "turkish": "Ebu Hüreyre (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Rasûlullah (sallallahü aleyhi ve sellem) şöyle buyurdu: “Aziz ve Celil olan Allah şöyle buyurdu: “Kullarıma verdiğim nimetlerle bazı kullarım küfre düşerler. Onlar bu nimeti bize yıldız gönderdi derler.” (Müslim, İman: 32; Müsned : 9085)",
+    "arabic": "أَخْبَرَنَا عَمْرُو بْنُ سَوَّادِ بْنِ الأَسْوَدِ بْنِ عَمْرٍو، قَالَ أَنْبَأَنَا ابْنُ وَهْبٍ، قَالَ أَخْبَرَنِي يُونُسُ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي عُبَيْدُ اللَّهِ بْنُ عَبْدِ اللَّهِ بْنِ عُتْبَةَ، عَنْ أَبِي هُرَيْرَةَ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ قَالَ اللَّهُ عَزَّ وَجَلَّ مَا أَنْعَمْتُ عَلَى عِبَادِي مِنْ نِعْمَةٍ إِلاَّ أَصْبَحَ فَرِيقٌ مِنْهُمْ بِهَا كَافِرِينَ يَقُولُونَ الْكَوْكَبُ وَبِالْكَوْكَبِ ‏\"‏ ‏.‏",
+    "grade": {
+      "label": "Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Sahih",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1525",
+    "url": "https://sunnetimiz.com/nesai:1525",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 17,
+      "title": "Yağmur Duası (İstiskâ)",
+      "title_ar": "كتاب الاستسقاء"
+    },
+    "bab": {
+      "number": 4,
+      "title_ar": "بَابُ الْجَهْرِ بِالْقِرَاءَةِ فِي صَلَاةِ الِاسْتِسْقَاءِ"
+    },
+    "number": "1525",
+    "turkish": "Zeyd b. H ali d el Cühenî (radıyallahü anh)’den rivâyete göre, şöyle demiştir: “ Rasûlullah (sallallahü aleyhi ve sellem) zamanında yağmur yağmıştı bunun üzerine Rasûlullah (sallallahü aleyhi ve sellem) şöyle buyurdu: “Rabbinizin bu gece ne dediğini duymadınız mı? Kullarıma her nimet verişimde mutlaka bir gurubu o nimet yüzünden küfre girerler ve şöyle derler: Bu yağmuru bize falan yıldız gönderdi derler. Ve kafir olmuş olurlar. Ama bana inanan ve verdiğim yağmurdan dolayı bana hamd edenler işte onlar bana iman edip yıldızlarda yağmur verme gücü olmadığını ikrar edenlerdir. Kim bize yıldız yağmur verdi derse işte o beni inkar edip yıldızın yağmur yağdırma gücü olduğuna iman eden kafir kimsedir.” (Müslim, İman: 32; Muvatta ', İstiska : 2)",
+    "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنْ صَالِحِ بْنِ كَيْسَانَ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنْ زَيْدِ بْنِ خَالِدٍ الْجُهَنِيِّ، قَالَ مُطِرَ النَّاسُ عَلَى عَهْدِ النَّبِيِّ صلى الله عليه وسلم فَقَالَ ‏ \"‏ أَلَمْ تَسْمَعُوا مَاذَا قَالَ رَبُّكُمُ اللَّيْلَةَ قَالَ مَا أَنْعَمْتُ عَلَى عِبَادِي مِنْ نِعْمَةٍ إِلاَّ أَصْبَحَ طَائِفَةٌ مِنْهُمْ بِهَا كَافِرِينَ يَقُولُونَ مُطِرْنَا بِنَوْءِ كَذَا وَكَذَا فَأَمَّا مَنْ آمَنَ بِي وَحَمِدَنِي عَلَى سُقْيَاىَ فَذَلِكَ الَّذِي آمَنَ بِي وَكَفَرَ بِالْكَوْكَبِ وَمَنْ قَالَ مُطِرْنَا بِنَوْءِ كَذَا وَكَذَا فَذَاكَ الَّذِي كَفَرَ بِي وَآمَنَ بِالْكَوْكَبِ ‏\"‏ ‏.‏",
+    "grade": {
+      "label": "Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Sahih",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1526",
+    "url": "https://sunnetimiz.com/nesai:1526",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 17,
+      "title": "Yağmur Duası (İstiskâ)",
+      "title_ar": "كتاب الاستسقاء"
+    },
+    "bab": {
+      "number": 4,
+      "title_ar": "بَابُ الْجَهْرِ بِالْقِرَاءَةِ فِي صَلَاةِ الِاسْتِسْقَاءِ"
+    },
+    "number": "1526",
+    "turkish": "Ebu Said el Hudrî (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Rasûlullah (sallallahü aleyhi ve sellem) şöyle buyurdu: “Aziz ve Celil olan Allah, beş yıl yağmur yağdırmasaydı ve beş yıl sonra yağdırdığında insanlardan bir kısmı micdah yıldızı bize yağmur yağdırdı diyerek kafir olurlar.” ( Dârimi , Rıkak : 49; Müsned : 10620)",
+    "arabic": "أَخْبَرَنَا عَبْدُ الْجَبَّارِ بْنُ الْعَلاَءِ، عَنْ سُفْيَانَ، عَنْ عَمْرٍو، عَنْ عَتَّابِ بْنِ حُنَيْنٍ، عَنْ أَبِي سَعِيدٍ الْخُدْرِيِّ، قَالَ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ لَوْ أَمْسَكَ اللَّهُ عَزَّ وَجَلَّ الْمَطَرَ عَنْ عِبَادِهِ خَمْسَ سِنِينَ ثُمَّ أَرْسَلَهُ لأَصْبَحَتْ طَائِفَةٌ مِنَ النَّاسِ كَافِرِينَ يَقُولُونَ سُقِينَا بِنَوْءِ الْمِجْدَحِ ‏\"‏ ‏.‏",
+    "grade": {
+      "label": "Zayıf",
+      "by": "el-Elbânî",
+      "tone": "daif"
+    },
+    "grade_source": {
+      "grade": "Daif",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1527",
+    "url": "https://sunnetimiz.com/nesai:1527",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 17,
+      "title": "Yağmur Duası (İstiskâ)",
+      "title_ar": "كتاب الاستسقاء"
+    },
+    "bab": {
+      "number": 4,
+      "title_ar": "بَابُ الْجَهْرِ بِالْقِرَاءَةِ فِي صَلَاةِ الِاسْتِسْقَاءِ"
+    },
+    "number": "1527",
+    "turkish": "Enes (radıyallahü anh)’ten rivâyete göre, şöyle demiştir: Bir yıl kuraklık olmuştu. Cuma günü bir Müslüman, Peygamber (sallallahü aleyhi ve sellem) giderek: “Ey Allah’ın Rasûlü ! Yağmurlar yağmaz oldu, topraklar kuraklıktan yarıldı, hayvanlar mahvoldu” diye yakındı. Peygamber (sallallahü aleyhi ve sellem) hemen ellerini kaldırdı -gökte hiçbir bulut görmüyorduk- koltuk altlarının beyazlığını bile gördüm. Allah’tan yağmur istedi. Enes diyor ki: “Biz daha cumayı kılmadan evleri yakın olan gençler bile evlerine nasıl döneceklerini düşünmeye başladılar. Yağmur tam bir hafta boyu yağdı.” Ertesi Cuma cemaat: “Ey Allah’ın Rasûlü ! çok yağmurdan dolayı evler yıkıldı binitler bile yola çıkamaz hale geldi” dediler. Bunun üzerine Rasûlullah (sallallahü aleyhi ve sellem): İnsan oğlunun ne çabuk usanıp bıktığını görerek tebessüm etti ve ellerini kaldırarak şöyle dua etti: “Allah’ım, bize değil çevremize…” bunun üzerine Medine’den yağmur derhal kesildi. ( Muvatta ', İstiska : 2; Buhârî , İstiska : 9)",
+    "arabic": "أَخْبَرَنَا عَلِيُّ بْنُ حُجْرٍ، قَالَ حَدَّثَنَا إِسْمَاعِيلُ، قَالَ حَدَّثَنَا حُمَيْدٌ، عَنْ أَنَسٍ، قَالَ قُحِطَ الْمَطَرُ عَامًا فَقَامَ بَعْضُ الْمُسْلِمِينَ إِلَى النَّبِيِّ صلى الله عليه وسلم فِي يَوْمِ جُمُعَةٍ فَقَالَ يَا رَسُولَ اللَّهِ قَحَطَ الْمَطَرُ وَأَجْدَبَتِ الأَرْضُ وَهَلَكَ الْمَالُ ‏.‏ قَالَ فَرَفَعَ يَدَيْهِ وَمَا نَرَى فِي السَّمَاءِ سَحَابَةً فَمَدَّ يَدَيْهِ حَتَّى رَأَيْتُ بَيَاضَ إِبْطَيْهِ يَسْتَسْقِي اللَّهَ عَزَّ وَجَلَّ - قَالَ - فَمَا صَلَّيْنَا الْجُمُعَةَ حَتَّى أَهَمَّ الشَّابَّ الْقَرِيبَ الدَّارِ الرُّجُوعُ إِلَى أَهْلِهِ فَدَامَتْ جُمُعَةٌ فَلَمَّا كَانَتِ الْجُمُعَةُ الَّتِي تَلِيهَا قَالُوا يَا رَسُولَ اللَّهِ تَهَدَّمَتِ الْبُيُوتُ وَاحْتَبَسَ الرُّكْبَانُ ‏.‏ قَالَ فَتَبَسَّمَ رَسُولُ اللَّهِ صلى الله عليه وسلم لِسُرْعَةِ مَلاَلَةِ ابْنِ آدَمَ وَقَالَ بِيَدَيْهِ ‏ \"‏ اللَّهُمَّ حَوَالَيْنَا وَلاَ عَلَيْنَا ‏\"‏ ‏.‏ فَتَكَشَّطَتْ عَنِ الْمَدِينَةِ ‏.‏",
+    "grade": {
+      "label": "Sahih (isnâdı)",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Sahih Isnaad",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1528",
+    "url": "https://sunnetimiz.com/nesai:1528",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 17,
+      "title": "Yağmur Duası (İstiskâ)",
+      "title_ar": "كتاب الاستسقاء"
+    },
+    "bab": {
+      "number": 5,
+      "title_ar": "بَابُ رَفْعِ الْإِمَامِ يَدَيْهِ عِنْدَ مَسْأَلَةِ إِمْسَاكِ الْمَطَرِ"
+    },
+    "number": "1528",
+    "turkish": "Enes b. M ali k (radıyallahü anh)’ten rivâyete göre, şöyle demiştir: Rasûlullah (sallallahü aleyhi ve sellem) zamanında bir sene kuraklık olmuştu. Rasûlullah (sallallahü aleyhi ve sellem), Cuma günü minberde hutbe okurken bir bedevi kalkarak: “Ey Allah’ın Rasûlü ! mallarımız helak oldu, çoluk çocuk aç kaldılar. Allah’a dua et de yağmur yağdırsın.” Bunun üzerine Rasûlullah (sallallahü aleyhi ve sellem) ellerine kaldırdı, gök yüzünde hiçbir bulut yoktu. Canım kudret elinde olan Allah’a yemin ederim ki daha Rasûlullah (sallallahü aleyhi ve sellem) ellerini indirmeden dağlar gibi bulutlar ortaya çıkıverdi. Rasûlullah (sallallahü aleyhi ve sellem) minberden inmeden sakalından yağmur damlalarının aktığını gördüm. O gün, ertesi gün ve ertesi Cumaya kadar yağmur yağmaya devam etti. Ertesi Cuma aynı bedevi -veya bir başkası- tekrar ayağa kalkarak: “Ey Allah’ın Rasûlü ! binalar yıkıldı, mallarımız sular altında kaldı, bizim için Allah’a dua et de yağmur kesilsin” dedi. Peygamber (sallallahü aleyhi ve sellem) ellerini kaldırarak şöyle dua etti: “Allah’ım, bize değil çevremize…” eliyle ne tarafı işaret ediyorsa o tarafın bulutları açılıyordu. öyle oldu ki Medine bir torba gibi ortada kaldı, yağmur çevreye yağdı, vadiler sellerle dolup taştı. Etraftan gelenler bol yağmur ve bereket haberleriyle geldiler. ( Buhârî , İstiska : 21; İbn Mâce , İkametü’s Salat : 154)",
+    "arabic": "أَخْبَرَنَا مَحْمُودُ بْنُ خَالِدٍ، قَالَ حَدَّثَنَا الْوَلِيدُ بْنُ مُسْلِمٍ، قَالَ أَنْبَأَنَا أَبُو عَمْرٍو الأَوْزَاعِيُّ، عَنْ إِسْحَاقَ بْنِ عَبْدِ اللَّهِ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ أَصَابَ النَّاسُ سَنَةٌ عَلَى عَهْدِ رَسُولِ اللَّهِ صلى الله عليه وسلم فَبَيْنَا رَسُولُ اللَّهِ صلى الله عليه وسلم يَخْطُبُ عَلَى الْمِنْبَرِ يَوْمَ الْجُمُعَةِ فَقَامَ أَعْرَابِيٌّ فَقَالَ يَا رَسُولَ اللَّهِ هَلَكَ الْمَالُ وَجَاعَ الْعِيَالُ فَادْعُ اللَّهَ لَنَا ‏.‏ فَرَفَعَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَدَيْهِ وَمَا نَرَى فِي السَّمَاءِ قَزَعَةً وَالَّذِي نَفْسِي بِيَدِهِ مَا وَضَعَهَا حَتَّى ثَارَ سَحَابٌ أَمْثَالُ الْجِبَالِ ثُمَّ لَمْ يَنْزِلْ عَنْ مِنْبَرِهِ حَتَّى رَأَيْتُ الْمَطَرَ يَتَحَادَرُ عَلَى لِحْيَتِهِ فَمُطِرْنَا يَوْمَنَا ذَلِكَ وَمِنَ الْغَدِ وَالَّذِي يَلِيهِ حَتَّى الْجُمُعَةِ الأُخْرَى فَقَامَ ذَلِكَ الأَعْرَابِيُّ أَوْ قَالَ غَيْرَهُ فَقَالَ يَا رَسُولَ اللَّهِ تَهَدَّمَ الْبِنَاءُ وَغَرِقَ الْمَالُ فَادْعُ اللَّهَ لَنَا ‏.‏ فَرَفَعَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَدَيْهِ فَقَالَ ‏ \"‏ اللَّهُمَّ حَوَالَيْنَا وَلاَ عَلَيْنَا ‏\"‏ ‏.‏ فَمَا يُشِيرُ بِيَدِهِ إِلَى نَاحِيَةٍ مِنَ السَّحَابِ إِلاَّ انْفَرَجَتْ حَتَّى صَارَتِ الْمَدِينَةُ مِثْلَ الْجَوْبَةِ وَسَالَ الْوَادِي وَلَمْ يَجِئْ أَحَدٌ مِنْ نَاحِيَةٍ إِلاَّ أَخْبَرَ بِالْجَوْدِ ‏.‏",
+    "grade": {
+      "label": "Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Sahih",
+      "grader": "Al-Albani"
+    }
+  }
+]

@@ -1,0 +1,56 @@
+{
+  "title": "Kütüb-i Sitte Hadis Külliyatı",
+  "generated_at": "2026-10-23 10:21:40",
+  "total_books": 6,
+  "total_hadiths": 34410,
+  "books": [
+    {
+      "slug": "buhari",
+      "name": "Sahih-i Buhârî",
+      "arabicName": "صحيح البخاري",
+      "totalKitabs": 97,
+      "hadith_count": 7583,
+      "isComplete": true
+    },
+    {
+      "slug": "muslim",
+      "name": "Sahih-i Müslim",
+      "arabicName": "صحيح مسلم",
+      "totalKitabs": 57,
+      "hadith_count": 7469,
+      "isComplete": true
+    },
+    {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "arabicName": "سنن النسائي",
+      "totalKitabs": 51,
+      "hadith_count": 5765,
+      "isComplete": true
+    },
+    {
+      "slug": "ebudavud",
+      "name": "Sünen-i Ebû Dâvûd",
+      "arabicName": "سنن أبي داود",
+      "totalKitabs": 43,
+      "hadith_count": 5274,
+      "isComplete": true
+    },
+    {
+      "slug": "tirmizi",
+      "name": "Sünen-i Tirmizî",
+      "arabicName": "جامع الترمذي",
+      "totalKitabs": 49,
+      "hadith_count": 3976,
+      "isComplete": true
+    },
+    {
+      "slug": "ibnmace",
+      "name": "Sünen-i İbn Mâce",
+      "arabicName": "سنن ابن ماجه",
+      "totalKitabs": 38,
+      "hadith_count": 4343,
+      "isComplete": true
+    }
+  ]
+}

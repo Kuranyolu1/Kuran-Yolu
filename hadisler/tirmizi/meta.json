@@ -1,0 +1,403 @@
+{
+  "slug": "tirmizi",
+  "name": "Sünen-i Tirmizî",
+  "arabicName": "جامع الترمذي",
+  "author": "İmâm Muhammed b. Îsâ et-Tirmizî",
+  "hadith_count": 3976,
+  "totalKitabs": 49,
+  "isComplete": true,
+  "kitabs": [
+    {
+      "number": 1,
+      "title": "Tahâret",
+      "title_ar": "كتاب الطهارة عن رسول الله صلى الله عليه وسلم",
+      "hadith_count": 148,
+      "first": "1",
+      "last": "148"
+    },
+    {
+      "number": 2,
+      "title": "Namaz",
+      "title_ar": "كتاب الصلاة",
+      "hadith_count": 302,
+      "first": "149",
+      "last": "451"
+    },
+    {
+      "number": 3,
+      "title": "Vitir",
+      "title_ar": "أَبْوَابُ الْوِتْرِ",
+      "hadith_count": 35,
+      "first": "452",
+      "last": "487"
+    },
+    {
+      "number": 4,
+      "title": "Cuma Günü",
+      "title_ar": "كِتَاب الْجُمُعَةِ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+      "hadith_count": 42,
+      "first": "488",
+      "last": "529"
+    },
+    {
+      "number": 5,
+      "title": "İki Bayram",
+      "title_ar": "أَبْوَابُ الْعِيدَيْنِ عَنْ رَسُولِ اللَّهِ صَلَّى اللَّهُ عَلَيْهِ وَسَلَّمَ",
+      "hadith_count": 14,
+      "first": "530",
+      "last": "543"
+    },
+    {
+      "number": 6,
+      "title": "Yolculuk",
+      "title_ar": "أَبْوَابُ السَّفَرِ",
+      "hadith_count": 73,
+      "first": "544",
+      "last": "616"
+    },
+    {
+      "number": 7,
+      "title": "Zekât",
+      "title_ar": "كتاب الزكاة عن رسول الله صلى الله عليه وسلم",
+      "hadith_count": 65,
+      "first": "617",
+      "last": "681"
+    },
+    {
+      "number": 8,
+      "title": "Oruç",
+      "title_ar": "كتاب الصوم عن رسول الله صلى الله عليه وسلم",
+      "hadith_count": 127,
+      "first": "682",
+      "last": "808"
+    },
+    {
+      "number": 9,
+      "title": "Hac",
+      "title_ar": "كتاب الحج عن رسول الله صلى الله عليه وسلم",
+      "hadith_count": 157,
+      "first": "809",
+      "last": "964"
+    },
+    {
+      "number": 10,
+      "title": "Cenâzeler",
+      "title_ar": "كتاب الجنائز عن رسول الله صلى الله عليه وسلم",
+      "hadith_count": 115,
+      "first": "965",
+      "last": "1079"
+    },
+    {
+      "number": 11,
+      "title": "Nikâh",
+      "title_ar": "كتاب النكاح عن رسول الله صلى الله عليه وسلم",
+      "hadith_count": 67,
+      "first": "1080",
+      "last": "1145"
+    },
+    {
+      "number": 12,
+      "title": "Süt Emzirme",
+      "title_ar": "كتاب الرضاع",
+      "hadith_count": 29,
+      "first": "1146",
+      "last": "1174"
+    },
+    {
+      "number": 13,
+      "title": "Talâk ve Lân",
+      "title_ar": "كتاب الطلاق واللعان عن رسول الله صلى الله عليه وسلم",
+      "hadith_count": 31,
+      "first": "1175",
+      "last": "1204"
+    },
+    {
+      "number": 14,
+      "title": "Ticâret",
+      "title_ar": "كتاب البيوع عن رسول الله صلى الله عليه وسلم",
+      "hadith_count": 117,
+      "first": "1205",
+      "last": "1321"
+    },
+    {
+      "number": 15,
+      "title": "Rasûlullah'tan Hükümler (Ahkâm)",
+      "title_ar": "كتاب الأحكام عن رسول الله صلى الله عليه وسلم",
+      "hadith_count": 64,
+      "first": "1322",
+      "last": "1385"
+    },
+    {
+      "number": 16,
+      "title": "Diyet",
+      "title_ar": "كتاب الديات عن رسول الله صلى الله عليه وسلم",
+      "hadith_count": 35,
+      "first": "1386",
+      "last": "1422"
+    },
+    {
+      "number": 17,
+      "title": "Had Cezâları",
+      "title_ar": "كتاب الحدود عن رسول الله صلى الله عليه وسلم",
+      "hadith_count": 45,
+      "first": "1423",
+      "last": "1463"
+    },
+    {
+      "number": 18,
+      "title": "Av",
+      "title_ar": "كتاب الصيد والذبائح عن رسول الله صلى الله عليه وسلم",
+      "hadith_count": 28,
+      "first": "1464",
+      "last": "1492"
+    },
+    {
+      "number": 19,
+      "title": "Kurbanlar",
+      "title_ar": "كتاب الأضاحى عن رسول الله صلى الله عليه وسلم",
+      "hadith_count": 29,
+      "first": "1493",
+      "last": "1523"
+    },
+    {
+      "number": 20,
+      "title": "Adaklar ve Yeminler",
+      "title_ar": "كتاب النذور والأيمان عن رسول الله صلى الله عليه وسلم",
+      "hadith_count": 23,
+      "first": "1524",
+      "last": "1547"
+    },
+    {
+      "number": 21,
+      "title": "Seriyyeler (Askerî Seferler)",
+      "title_ar": "كتاب السير عن رسول الله صلى الله عليه وسلم",
+      "hadith_count": 68,
+      "first": "1548",
+      "last": "1618"
+    },
+    {
+      "number": 22,
+      "title": "Cihâdın Fazîleti",
+      "title_ar": "كتاب فضائل الجهاد عن رسول الله صلى الله عليه وسلم",
+      "hadith_count": 51,
+      "first": "1619",
+      "last": "1669"
+    },
+    {
+      "number": 23,
+      "title": "Cihâd",
+      "title_ar": "كتاب الجهاد عن رسول الله صلى الله عليه وسلم",
+      "hadith_count": 48,
+      "first": "1670",
+      "last": "1719"
+    },
+    {
+      "number": 24,
+      "title": "Elbise",
+      "title_ar": "كتاب اللباس",
+      "hadith_count": 66,
+      "first": "1720",
+      "last": "1787"
+    },
+    {
+      "number": 25,
+      "title": "Yiyecekler",
+      "title_ar": "كتاب الأطعمة عن رسول الله صلى الله عليه وسلم",
+      "hadith_count": 73,
+      "first": "1788",
+      "last": "1860"
+    },
+    {
+      "number": 26,
+      "title": "İçecekler",
+      "title_ar": "كتاب الأشربة عن رسول الله صلى الله عليه وسلم",
+      "hadith_count": 36,
+      "first": "1861",
+      "last": "1896"
+    },
+    {
+      "number": 27,
+      "title": "Birr ve Sıla",
+      "title_ar": "كتاب البر والصلة عن رسول الله صلى الله عليه وسلم",
+      "hadith_count": 141,
+      "first": "1897",
+      "last": "2035"
+    },
+    {
+      "number": 28,
+      "title": "Tıp",
+      "title_ar": "كتاب الطب عن رسول اللَّهِ صلى الله عليه وسلم",
+      "hadith_count": 54,
+      "first": "2036",
+      "last": "2089"
+    },
+    {
+      "number": 29,
+      "title": "Mîrâs",
+      "title_ar": "كتاب الفرائض عن رسول الله صلى الله عليه وسلم",
+      "hadith_count": 26,
+      "first": "2090",
+      "last": "2115"
+    },
+    {
+      "number": 30,
+      "title": "Vasiyyetler",
+      "title_ar": "كتاب الوصايا عن رسول الله صلى الله عليه وسلم",
+      "hadith_count": 9,
+      "first": "2116",
+      "last": "2124"
+    },
+    {
+      "number": 31,
+      "title": "Velâ ve Hibeler",
+      "title_ar": "كتاب الولاء والهبة عن رسول الله صلى الله عليه وسلم",
+      "hadith_count": 8,
+      "first": "2125",
+      "last": "2132"
+    },
+    {
+      "number": 32,
+      "title": "Kader",
+      "title_ar": "كتاب القدر عن رسول الله صلى الله عليه وسلم",
+      "hadith_count": 26,
+      "first": "2133",
+      "last": "2298"
+    },
+    {
+      "number": 33,
+      "title": "Fitneler",
+      "title_ar": "كتاب الفتن عن رسول الله صلى الله عليه وسلم",
+      "hadith_count": 112,
+      "first": "2158",
+      "last": "2269"
+    },
+    {
+      "number": 34,
+      "title": "Rüyâlar",
+      "title_ar": "كتاب الرؤيا عن رسول الله صلى الله عليه وسلم",
+      "hadith_count": 25,
+      "first": "2270",
+      "last": "2294"
+    },
+    {
+      "number": 35,
+      "title": "Şâhitlikler",
+      "title_ar": "كتاب الشهادات عن رسول الله صلى الله عليه وسلم",
+      "hadith_count": 9,
+      "first": "2295",
+      "last": "2303"
+    },
+    {
+      "number": 36,
+      "title": "Zühd",
+      "title_ar": "كتاب الزهد عن رسول الله صلى الله عليه وسلم",
+      "hadith_count": 111,
+      "first": "2304",
+      "last": "2414"
+    },
+    {
+      "number": 37,
+      "title": "Kıyâmet, Rikâk ve Vera' Vasıfları",
+      "title_ar": "كتاب صفة القيامة والرقائق والورع عن رسول الله صلى الله",
+      "hadith_count": 108,
+      "first": "2415",
+      "last": "2522"
+    },
+    {
+      "number": 38,
+      "title": "Cennetin Vasıfları",
+      "title_ar": "كتاب صفة الجنة عن رسول الله صلى الله عليه وسلم",
+      "hadith_count": 51,
+      "first": "2523",
+      "last": "2735"
+    },
+    {
+      "number": 39,
+      "title": "Cehennemin Vasıfları",
+      "title_ar": "كتاب صفة جهنم عن رسول الله صلى الله عليه وسلم",
+      "hadith_count": 34,
+      "first": "2573",
+      "last": "2795"
+    },
+    {
+      "number": 40,
+      "title": "Îmân",
+      "title_ar": "كتاب الإيمان عن رسول الله صلى الله عليه وسلم",
+      "hadith_count": 39,
+      "first": "2606",
+      "last": "2644"
+    },
+    {
+      "number": 41,
+      "title": "İlim",
+      "title_ar": "كتاب العلم عن رسول الله صلى الله عليه وسلم",
+      "hadith_count": 43,
+      "first": "2645",
+      "last": "2687"
+    },
+    {
+      "number": 42,
+      "title": "İzin İstemek",
+      "title_ar": "كتاب الاستئذان والآداب عن رسول الله صلى الله عليه وسلم",
+      "hadith_count": 47,
+      "first": "2688",
+      "last": "2734"
+    },
+    {
+      "number": 43,
+      "title": "Âdâb",
+      "title_ar": "كتاب الأدب عن رسول الله صلى الله عليه وسلم",
+      "hadith_count": 136,
+      "first": "2736",
+      "last": "2858"
+    },
+    {
+      "number": 44,
+      "title": "Misaller",
+      "title_ar": "كتاب الأمثال عن رسول الله صلى الله عليه وسلم",
+      "hadith_count": 17,
+      "first": "2859",
+      "last": "2874"
+    },
+    {
+      "number": 45,
+      "title": "Kur'ân'ın Fazîletleri",
+      "title_ar": "كتاب ثواب القرآن عن رسول الله صلى الله عليه وسلم",
+      "hadith_count": 52,
+      "first": "2875",
+      "last": "2926"
+    },
+    {
+      "number": 46,
+      "title": "Kıraat",
+      "title_ar": "كتاب القراءات عن رسول الله صلى الله عليه وسلم",
+      "hadith_count": 23,
+      "first": "2927",
+      "last": "2949"
+    },
+    {
+      "number": 47,
+      "title": "Tefsîr",
+      "title_ar": "كتاب تفسير القرآن عن رسول الله صلى الله عليه وسلم",
+      "hadith_count": 422,
+      "first": "2950",
+      "last": "3723"
+    },
+    {
+      "number": 48,
+      "title": "Dualar",
+      "title_ar": "كتاب الدعوات عن رسول الله صلى الله عليه وسلم",
+      "hadith_count": 244,
+      "first": "3370",
+      "last": "3604.1"
+    },
+    {
+      "number": 49,
+      "title": "Fazîletler (Menâkıb)",
+      "title_ar": "كتاب المناقب عن رسول الله صلى الله عليه وسلم",
+      "hadith_count": 351,
+      "first": "3605",
+      "last": "3956"
+    }
+  ]
+}

@@ -1,0 +1,752 @@
+[
+  {
+    "ref": "nesai:1433",
+    "url": "https://sunnetimiz.com/nesai:1433",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 15,
+      "title": "Yolculukta Namazı Kısaltma",
+      "title_ar": "كتاب تقصير الصلاة فى السفر"
+    },
+    "bab": null,
+    "number": "1433",
+    "turkish": "Ya’la b. Ümeyye (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Ömer b. Hattab’a : “Kafirlerin ansızın size saldırmasından korkarsanız namazı kısaltmanızda bir günah yoktur.” (Nisâ sûresi 101. ayet) Fakat insanlar emniyette olduklarına göre, niçin namaz eksik kılınıyor diye sordum. Ömer: “Sorduğun şeye bende hayret etmiştim ve Rasûlullah (sallallahü aleyhi ve sellem)’e sormuştum o da şu cevabı vermişti: “O Allah’ın size verdiği bir sadakasıdır. Allah’ın sadakasını kabul ediniz.” (Müslim, Salatül Müsafirin : 1; İbn Mâce , İkametü’s Salat : 73)",
+    "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ أَنْبَأَنَا عَبْدُ اللَّهِ بْنُ إِدْرِيسَ، قَالَ أَنْبَأَنَا ابْنُ جُرَيْجٍ، عَنِ ابْنِ أَبِي عَمَّارٍ، عَنْ عَبْدِ اللَّهِ بْنِ بَابَيْهِ، عَنْ يَعْلَى بْنِ أُمَيَّةَ، قَالَ قُلْتُ لِعُمَرَ بْنِ الْخَطَّابِ ‏{‏ لَيْسَ عَلَيْكُمْ جُنَاحٌ أَنْ تَقْصُرُوا، مِنَ الصَّلاَةِ إِنْ خِفْتُمْ أَنْ يَفْتِنَكُمُ الَّذِينَ كَفَرُوا ‏}‏ فَقَدْ أَمِنَ النَّاسُ ‏.‏ فَقَالَ عُمَرُ رضى الله عنه عَجِبْتُ مِمَّا عَجِبْتَ مِنْهُ فَسَأَلْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم عَنْ ذَلِكَ فَقَالَ ‏\"‏ صَدَقَةٌ تَصَدَّقَ اللَّهُ بِهَا عَلَيْكُمْ فَاقْبَلُوا صَدَقَتَهُ ‏\"‏ ‏.‏",
+    "grade": {
+      "label": "Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Sahih",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1434",
+    "url": "https://sunnetimiz.com/nesai:1434",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 15,
+      "title": "Yolculukta Namazı Kısaltma",
+      "title_ar": "كتاب تقصير الصلاة فى السفر"
+    },
+    "bab": null,
+    "number": "1434",
+    "turkish": "Ümeyye b. Abdullah b. H ali d (radıyallahü anh), Abdullah b. Ömer’e şöyle sormuştu: “Vakit namazları, korku namazı Kur’an da var fakat yolculuk (sefer) namazını Kur’an da bulamıyoruz” dedi. İbn Ömer dedi ki: “Ey Yeğenim, Aziz ve Celil olan Allah bize Muhammed (sallallahü aleyhi ve sellem)’i gönderdi hiçbir şey bilmiyorduk, (O bize her şeyi öğretti.) Dolayısıyla biz Muhammed (sallallahü aleyhi ve sellem)’in yaptığını gördüğümüz şeyleri biz de yaparız.” (Yani Kitabtan öğrendiklerimiz yanında peygamberin yaptıkları da bize örneklik teşkil eder.) ( İbn Mâce , İkametü’s Salat : 73; Müsned : 5081)",
+    "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنِ ابْنِ شِهَابٍ، عَنْ عَبْدِ اللَّهِ بْنِ أَبِي بَكْرِ بْنِ عَبْدِ الرَّحْمَنِ، عَنْ أُمَيَّةَ بْنِ عَبْدِ اللَّهِ بْنِ خَالِدٍ، أَنَّهُ قَالَ لِعَبْدِ اللَّهِ بْنِ عُمَرَ إِنَّا نَجِدُ صَلاَةَ الْحَضَرِ وَصَلاَةَ الْخَوْفِ فِي الْقُرْآنِ وَلاَ نَجِدُ صَلاَةَ السَّفَرِ فِي الْقُرْآنِ ‏.‏ فَقَالَ لَهُ ابْنُ عُمَرَ يَا ابْنَ أَخِي إِنَّ اللَّهَ عَزَّ وَجَلَّ بَعَثَ إِلَيْنَا مُحَمَّدًا صلى الله عليه وسلم وَلاَ نَعْلَمُ شَيْئًا وَإِنَّمَا نَفْعَلُ كَمَا رَأَيْنَا مُحَمَّدًا صلى الله عليه وسلم يَفْعَلُ ‏.‏",
+    "grade": {
+      "label": "Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Sahih",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1435",
+    "url": "https://sunnetimiz.com/nesai:1435",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 15,
+      "title": "Yolculukta Namazı Kısaltma",
+      "title_ar": "كتاب تقصير الصلاة فى السفر"
+    },
+    "bab": null,
+    "number": "1435",
+    "turkish": "İbn Abbas (radıyallahü anh)’tan rivâyete göre, Rasûlullah (sallallahü aleyhi ve sellem), Mekke’den Medine’ye bir yolculuğa çıkmıştı da alemlerin Rabbi olan Allah’tan başka hiçbir şeyden korkusu olmadığı halde namazlarını ikişer rekat olarak kılmıştı. ( İbn Mâce , İkametü’s Salat : 74; Müsned : 1755)",
+    "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا هُشَيْمٌ، عَنْ مَنْصُورِ بْنِ زَاذَانَ، عَنِ ابْنِ سِيرِينَ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم خَرَجَ مِنْ مَكَّةَ إِلَى الْمَدِينَةِ لاَ يَخَافُ إِلاَّ رَبَّ الْعَالَمِينَ يُصَلِّي رَكْعَتَيْنِ ‏.‏",
+    "grade": {
+      "label": "Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Sahih",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1436",
+    "url": "https://sunnetimiz.com/nesai:1436",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 15,
+      "title": "Yolculukta Namazı Kısaltma",
+      "title_ar": "كتاب تقصير الصلاة فى السفر"
+    },
+    "bab": null,
+    "number": "1436",
+    "turkish": "İbn Abbas (radıyallahü anh) anlatıyor: Rasûlullah (sallallahü aleyhi ve sellem) ile birlikte Mekke ile Medine arasında bir yolculukta idik. Aziz ve Celil olan Allah’tan başka hiç kimseden korkumuz olmadığı halde namazları ikişer rekat olarak kılıyorduk. ( İbn Mâce , İkametü’s Salat : 74; Müsned : 1755)",
+    "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، قَالَ حَدَّثَنَا خَالِدٌ، قَالَ حَدَّثَنَا ابْنُ عَوْنٍ، عَنْ مُحَمَّدٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ كُنَّا نَسِيرُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم بَيْنَ مَكَّةَ وَالْمَدِينَةِ لاَ نَخَافُ إِلاَّ اللَّهَ عَزَّ وَجَلَّ نُصَلِّي رَكْعَتَيْنِ ‏.‏",
+    "grade": {
+      "label": "Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Sahih",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1437",
+    "url": "https://sunnetimiz.com/nesai:1437",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 15,
+      "title": "Yolculukta Namazı Kısaltma",
+      "title_ar": "كتاب تقصير الصلاة فى السفر"
+    },
+    "bab": null,
+    "number": "1437",
+    "turkish": "İbn Sımt (radıyallahü anh)’tan rivâyete göre, şöyle demiştir: “Ömer b. Hattab Zülhuleyfe’de namazları iki rekat olarak kıldığını gördüm ve kendisine bunun sebebini sordum. O da: “ Rasûlullah (sallallahü aleyhi ve sellem)’den gördüğüm gibi yapıyorum” diye cevap verdi. ( İbn Mâce , İkametü’s Salat : 74; Müslim, Salatül Müsafirin : 2)",
+    "arabic": "أَخْبَرَنَا إِسْحَاقُ بْنُ إِبْرَاهِيمَ، قَالَ حَدَّثَنَا النَّضْرُ بْنُ شُمَيْلٍ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ يَزِيدَ بْنِ خُمَيْرٍ، قَالَ سَمِعْتُ حَبِيبَ بْنَ عُبَيْدٍ، يُحَدِّثُ عَنْ جُبَيْرِ بْنِ نُفَيْرٍ، عَنِ ابْنِ السِّمْطِ، قَالَ رَأَيْتُ عُمَرَ بْنَ الْخَطَّابِ يُصَلِّي بِذِي الْحُلَيْفَةِ رَكْعَتَيْنِ فَسَأَلْتُهُ عَنْ ذَلِكَ، فَقَالَ إِنَّمَا أَفْعَلُ كَمَا رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَفْعَلُ ‏.‏",
+    "grade": {
+      "label": "Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Sahih",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1438",
+    "url": "https://sunnetimiz.com/nesai:1438",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 15,
+      "title": "Yolculukta Namazı Kısaltma",
+      "title_ar": "كتاب تقصير الصلاة فى السفر"
+    },
+    "bab": null,
+    "number": "1438",
+    "turkish": "Enes (radıyallahü anh)’ten rivâyete göre, şöyle demiştir: Rasûlullah (sallallahü aleyhi ve sellem) ile birlikte Medine’den Mekke’ye doğru yola çıkmıştık. Rasûlullah (sallallahü aleyhi ve sellem), Mekke’de on gün kaldı ve namazları kısaltarak seferî olarak kıldı. (Müslim, Salatül Müsafirin : 1; İbn Mâce , İkametü’s Salat : 74)",
+    "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا أَبُو عَوَانَةَ، عَنْ يَحْيَى بْنِ أَبِي إِسْحَاقَ، عَنْ أَنَسٍ، قَالَ خَرَجْتُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم مِنَ الْمَدِينَةِ إِلَى مَكَّةَ فَلَمْ يَزَلْ يَقْصُرُ حَتَّى رَجَعَ فَأَقَامَ بِهَا عَشْرًا ‏.‏",
+    "grade": {
+      "label": "Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Sahih",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1439",
+    "url": "https://sunnetimiz.com/nesai:1439",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 15,
+      "title": "Yolculukta Namazı Kısaltma",
+      "title_ar": "كتاب تقصير الصلاة فى السفر"
+    },
+    "bab": null,
+    "number": "1439",
+    "turkish": "Abdullah (radıyallahü anh)’tan rivâyete göre, şöyle demiştir: Rasûlullah (sallallahü aleyhi ve sellem) ile birlikte bir yolculukta namazları ikişer rekat olarak kıldım. Yine Ebu Bekir ve Ömer’le de yolculuk yaptım ve namazları hep ikişer rekat olarak kıldım. (Müslim, Salatül Müsafirin : 2; İbn Mâce , İkametü’s Salat : 74)",
+    "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَلِيِّ بْنِ الْحَسَنِ بْنِ شَقِيقٍ، قَالَ أَبِي أَنْبَأَنَا أَبُو حَمْزَةَ، - وَهُوَ السُّكَّرِيُّ - عَنْ مَنْصُورٍ، عَنْ إِبْرَاهِيمَ، عَنْ عَلْقَمَةَ، عَنْ عَبْدِ اللَّهِ، قَالَ صَلَّيْتُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم فِي السَّفَرِ رَكْعَتَيْنِ وَمَعَ أَبِي بَكْرٍ رَكْعَتَيْنِ وَمَعَ عُمَرَ رَكْعَتَيْنِ رضى الله عنهما ‏.‏",
+    "grade": {
+      "label": "Sahih (isnâdı)",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Sahih Isnaad",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1440",
+    "url": "https://sunnetimiz.com/nesai:1440",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 15,
+      "title": "Yolculukta Namazı Kısaltma",
+      "title_ar": "كتاب تقصير الصلاة فى السفر"
+    },
+    "bab": null,
+    "number": "1440",
+    "turkish": "Ömer (radıyallahü anh)’den rivâyete göre, şöyle demiştir: “Peygamber (sallallahü aleyhi ve sellem)’in söylediğine ve yaptığına göre, Cuma namazı iki rekattır. Ramazan bayramı namazı iki rekattır. Kurban bayramı namazı iki rekattır. Yolculukta kılınan namazlar ikişer rekat olarak kılınır, böyle kılınırsa eksik kılınmış sayılmaz.” (Müslim, Salatül Müsafirin : 2; İbn Mâce , İkametü’s Salat : 73)",
+    "arabic": "أَخْبَرَنَا حُمَيْدُ بْنُ مَسْعَدَةَ، عَنْ سُفْيَانَ، - وَهُوَ ابْنُ حَبِيبٍ - عَنْ شُعْبَةَ، عَنْ زُبَيْدٍ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ أَبِي لَيْلَى، عَنْ عُمَرَ، قَالَ صَلاَةُ الْجُمُعَةِ رَكْعَتَانِ وَالْفِطْرِ رَكْعَتَانِ وَالنَّحْرِ رَكْعَتَانِ وَالسَّفَرِ رَكْعَتَانِ تَمَامٌ غَيْرُ قَصْرٍ عَلَى لِسَانِ النَّبِيِّ صلى الله عليه وسلم ‏.‏",
+    "grade": {
+      "label": "Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Sahih",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1441",
+    "url": "https://sunnetimiz.com/nesai:1441",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 15,
+      "title": "Yolculukta Namazı Kısaltma",
+      "title_ar": "كتاب تقصير الصلاة فى السفر"
+    },
+    "bab": null,
+    "number": "1441",
+    "turkish": "İbn Abbas (radıyallahü anh)’tan rivâyete göre, şöyle demiştir: Rasûlullah (sallallahü aleyhi ve sellem) söylediğine ve yaptığına göre namazlar dört rekat olarak farz kılındı, yolculukta namaz iki rekata indirildi, korku (savaşta kılınan) namazı ise bir rekat oldu. ( İbn Mâce , İkametü’s Salat : 73; Ebû Davud , Salat : 287)",
+    "arabic": "أَخْبَرَنِي مُحَمَّدُ بْنُ وَهْبٍ، قَالَ حَدَّثَنِي مُحَمَّدُ بْنُ سَلَمَةَ، قَالَ حَدَّثَنِي أَبُو عَبْدِ الرَّحِيمِ، قَالَ حَدَّثَنِي زَيْدٌ، عَنْ أَيُّوبَ، - وَهُوَ ابْنُ عَائِذٍ - عَنْ بُكَيْرِ بْنِ الأَخْنَسِ، عَنْ مُجَاهِدٍ أَبِي الْحَجَّاجِ، عَنِ ابْنِ عَبَّاسٍ، قَالَ فُرِضَتْ صَلاَةُ الْحَضَرِ عَلَى لِسَانِ نَبِيِّكُمْ صلى الله عليه وسلم أَرْبَعًا وَصَلاَةُ السَّفَرِ رَكْعَتَيْنِ وَصَلاَةُ الْخَوْفِ رَكْعَةً ‏.‏",
+    "grade": {
+      "label": "Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Sahih",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1442",
+    "url": "https://sunnetimiz.com/nesai:1442",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 15,
+      "title": "Yolculukta Namazı Kısaltma",
+      "title_ar": "كتاب تقصير الصلاة فى السفر"
+    },
+    "bab": null,
+    "number": "1442",
+    "turkish": "Yine İbn Abbas (radıyallahü anh)’tan rivâyete göre, şöyle demiştir: Aziz ve Celil olan Allah Peygamber (sallallahü aleyhi ve sellem)’in dili ile namazları dört rekat olarak farz kıldı, yolculukta iki, korku namazında ise bir rekat olarak farz kılınmıştır. ( İbn Mâce , İkametü’s Salat : 73; Ebû Davud , Salat : 287)",
+    "arabic": "أَخْبَرَنَا يَعْقُوبُ بْنُ مَاهَانَ، قَالَ حَدَّثَنَا الْقَاسِمُ بْنُ مَالِكٍ، عَنْ أَيُّوبَ بْنِ عَائِذٍ، عَنْ بُكَيْرِ بْنِ الأَخْنَسِ، عَنْ مُجَاهِدٍ، عَنِ ابْنِ عَبَّاسٍ، قَالَ إِنَّ اللَّهَ عَزَّ وَجَلَّ فَرَضَ الصَّلاَةَ عَلَى لِسَانِ نَبِيِّكُمْ صلى الله عليه وسلم فِي الْحَضَرِ أَرْبَعًا وَفِي السَّفَرِ رَكْعَتَيْنِ وَفِي الْخَوْفِ رَكْعَةً ‏.‏",
+    "grade": {
+      "label": "Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Sahih",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1443",
+    "url": "https://sunnetimiz.com/nesai:1443",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 15,
+      "title": "Yolculukta Namazı Kısaltma",
+      "title_ar": "كتاب تقصير الصلاة فى السفر"
+    },
+    "bab": {
+      "number": 1,
+      "title_ar": "بَابُ: الصَّلَاةِ بِمَكَّةَ"
+    },
+    "number": "1443",
+    "turkish": "Musa b. Seleme (radıyallahü anh)’den rivâyete göre, şöyle demiştir: İbn Abbas’a : Mekke’de bulunduğum sürece tek başıma namazlarımı nasıl kılacağım diye sordum. O da: Ebu’l Kasım Muhammed (sallallahü aleyhi ve sellem)’e uymak üzere iki rekat olarak kıl dedi. (Müslim, Salatül Müsafirin : 2; Müsned : 1892)",
+    "arabic": "حَدَّثَنَا مُحَمَّدُ بْنُ عَبْدِ الأَعْلَى، فِي حَدِيثِهِ عَنْ خَالِدِ بْنِ الْحَارِثِ، قَالَ حَدَّثَنَا شُعْبَةُ، عَنْ قَتَادَةَ، قَالَ سَمِعْتُ مُوسَى، - وَهُوَ ابْنُ سَلَمَةَ - قَالَ قُلْتُ لاِبْنِ عَبَّاسٍ كَيْفَ أُصَلِّي بِمَكَّةَ إِذَا لَمْ أُصَلِّ فِي جَمَاعَةٍ قَالَ رَكْعَتَيْنِ سُنَّةَ أَبِي الْقَاسِمِ صلى الله عليه وسلم ‏.‏",
+    "grade": {
+      "label": "Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Sahih",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1444",
+    "url": "https://sunnetimiz.com/nesai:1444",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 15,
+      "title": "Yolculukta Namazı Kısaltma",
+      "title_ar": "كتاب تقصير الصلاة فى السفر"
+    },
+    "bab": {
+      "number": 1,
+      "title_ar": "بَابُ: الصَّلَاةِ بِمَكَّةَ"
+    },
+    "number": "1444",
+    "turkish": "Katade (radıyallahü anh)’den aktarıldığına göre Musa b. Seleme İbn Abbas’a : Ben Batha’da olduğum için cemaate yetişemedim, namazımı nasıl kılayım? Diye sordu. O da: “ Ebu’l Kasım (sallallahü aleyhi ve sellem)’in yolunda giderek iki rekat olarak kıl” diye cevap verdi. (Müslim, Salatül Müsafirin : 2; Müsned : 1892)",
+    "arabic": "أَخْبَرَنَا إِسْمَاعِيلُ بْنُ مَسْعُودٍ، قَالَ حَدَّثَنَا يَزِيدُ بْنُ زُرَيْعٍ، قَالَ حَدَّثَنَا سَعِيدٌ، قَالَ حَدَّثَنَا قَتَادَةُ، أَنَّ مُوسَى بْنَ سَلَمَةَ، حَدَّثَهُمْ أَنَّهُ، سَأَلَ ابْنَ عَبَّاسٍ قُلْتُ تَفُوتُنِي الصَّلاَةُ فِي جَمَاعَةٍ وَأَنَا بِالْبَطْحَاءِ، مَا تَرَى أَنْ أُصَلِّيَ، قَالَ رَكْعَتَيْنِ سُنَّةَ أَبِي الْقَاسِمِ صلى الله عليه وسلم ‏.‏",
+    "grade": {
+      "label": "Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Sahih",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1445",
+    "url": "https://sunnetimiz.com/nesai:1445",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 15,
+      "title": "Yolculukta Namazı Kısaltma",
+      "title_ar": "كتاب تقصير الصلاة فى السفر"
+    },
+    "bab": {
+      "number": 2,
+      "title_ar": "بَابُ: الصَّلَاةِ بِمِنًى"
+    },
+    "number": "1445",
+    "turkish": "Harise b. Vehb el Huzaî (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Rasûlullah (sallallahü aleyhi ve sellem) ile birlikte Mina’da namazları iki rekat olarak kılmıştım, o zaman Müslümanlar emniyet ve güven ortamındaydılar. ( Buhârî , Hac: 84; Tirmizî , Hac: 52)",
+    "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا أَبُو الأَحْوَصِ، عَنْ أَبِي إِسْحَاقَ، عَنْ حَارِثَةَ بْنِ وَهْبٍ الْخُزَاعِيِّ، قَالَ صَلَّيْتُ مَعَ النَّبِيِّ صلى الله عليه وسلم بِمِنًى آمَنَ مَا كَانَ النَّاسُ وَأَكْثَرَهُ رَكْعَتَيْنِ ‏.‏",
+    "grade": {
+      "label": "Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Sahih",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1446",
+    "url": "https://sunnetimiz.com/nesai:1446",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 15,
+      "title": "Yolculukta Namazı Kısaltma",
+      "title_ar": "كتاب تقصير الصلاة فى السفر"
+    },
+    "bab": {
+      "number": 2,
+      "title_ar": "بَابُ: الصَّلَاةِ بِمِنًى"
+    },
+    "number": "1446",
+    "turkish": "Harise b. Vehb (radıyallahü anh)’ten rivâyete göre, şöyle demiştir: Rasûlullah (sallallahü aleyhi ve sellem), Müslümanlar emniyet ve güven içerisinde oldukları halde Mina’da namazları iki rekat olarak kıldırdı. ( Buhârî , Hac: 84; Tirmizî , Hac: 52 )",
+    "arabic": "أَخْبَرَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا شُعْبَةُ، قَالَ حَدَّثَنَا أَبُو إِسْحَاقَ، ح وَأَنْبَأَنَا عَمْرُو بْنُ عَلِيٍّ، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا سُفْيَانُ، قَالَ أَخْبَرَنِي أَبُو إِسْحَاقَ، عَنْ حَارِثَةَ بْنِ وَهْبٍ، قَالَ صَلَّى بِنَا رَسُولُ اللَّهِ صلى الله عليه وسلم بِمِنًى أَكْثَرَ مَا كَانَ النَّاسُ وَآمَنَهُ رَكْعَتَيْنِ ‏.‏",
+    "grade": {
+      "label": "Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Sahih",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1447",
+    "url": "https://sunnetimiz.com/nesai:1447",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 15,
+      "title": "Yolculukta Namazı Kısaltma",
+      "title_ar": "كتاب تقصير الصلاة فى السفر"
+    },
+    "bab": {
+      "number": 2,
+      "title_ar": "بَابُ: الصَّلَاةِ بِمِنًى"
+    },
+    "number": "1447",
+    "turkish": "Enes b. M ali k (radıyallahü anh)’ten rivâyete göre, şöyle demiştir: Rasûlullah (sallallahü aleyhi ve sellem) ile birlikte Ebu Bekir’le, Ömer’le ve Osman’ın hilafetinin başlarında Mina’da namazları ikişer rekat olarak kılardık. ( Buhârî , Hac: 84; Tirmizî , Hac: 52)",
+    "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا اللَّيْثُ، عَنْ بُكَيْرٍ، عَنْ مُحَمَّدِ بْنِ عَبْدِ اللَّهِ بْنِ أَبِي سُلَيْمٍ، عَنْ أَنَسِ بْنِ مَالِكٍ، أَنَّهُ قَالَ صَلَّيْتُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم بِمِنًى وَمَعَ أَبِي بَكْرٍ وَعُمَرَ رَكْعَتَيْنِ وَمَعَ عُثْمَانَ رَكْعَتَيْنِ صَدْرًا مِنْ إِمَارَتِهِ ‏.‏",
+    "grade": {
+      "label": "Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Sahih",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1448",
+    "url": "https://sunnetimiz.com/nesai:1448",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 15,
+      "title": "Yolculukta Namazı Kısaltma",
+      "title_ar": "كتاب تقصير الصلاة فى السفر"
+    },
+    "bab": {
+      "number": 2,
+      "title_ar": "بَابُ: الصَّلَاةِ بِمِنًى"
+    },
+    "number": "1448",
+    "turkish": "Abdullah (radıyallahü anh)’tan rivâyete göre, şöyle demiştir: Rasûlullah (sallallahü aleyhi ve sellem) ile birlikte Mina’da namazları ikişer rekat olarak kıldım. ( Buhârî , Hac: 84; Tirmizî , Hac: 52)",
+    "arabic": "أَخْبَرَنَا قُتَيْبَةُ، قَالَ حَدَّثَنَا عَبْدُ الْوَاحِدِ، عَنِ الأَعْمَشِ، قَالَ حَدَّثَنَا إِبْرَاهِيمُ، قَالَ سَمِعْتُ عَبْدَ الرَّحْمَنِ بْنَ يَزِيدَ، ح وَأَنْبَأَنَا مَحْمُودُ بْنُ غَيْلاَنَ، قَالَ حَدَّثَنَا يَحْيَى بْنُ آدَمَ، قَالَ حَدَّثَنَا سُفْيَانُ، عَنِ الأَعْمَشِ، عَنْ إِبْرَاهِيمَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ يَزِيدَ، عَنْ عَبْدِ اللَّهِ، - رضى الله عنه - قَالَ صَلَّيْتُ بِمِنًى مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم رَكْعَتَيْنِ ‏.‏",
+    "grade": {
+      "label": "Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Sahih",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1449",
+    "url": "https://sunnetimiz.com/nesai:1449",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 15,
+      "title": "Yolculukta Namazı Kısaltma",
+      "title_ar": "كتاب تقصير الصلاة فى السفر"
+    },
+    "bab": {
+      "number": 2,
+      "title_ar": "بَابُ: الصَّلَاةِ بِمِنًى"
+    },
+    "number": "1449",
+    "turkish": "Abdurrahman b. Yezid (radıyallahü anh)’ten rivâyete göre, şöyle demiştir: Osman, Mina’da namazı dört rekat olarak kılmıştı. Bu durum Abdullah b. Mes’ud’a ulaşınca: “Ben Rasûlullah (sallallahü aleyhi ve sellem) ile birlikte Mina’da namazları hep iki rekat olarak kılmıştım” dedi. ( Buhârî , Hac: 84; Tirmizî , Hac: 52)",
+    "arabic": "أَخْبَرَنَا عَلِيُّ بْنُ خَشْرَمٍ، قَالَ حَدَّثَنَا عِيسَى، عَنِ الأَعْمَشِ، عَنْ إِبْرَاهِيمَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ يَزِيدَ، قَالَ صَلَّى عُثْمَانُ بِمِنًى أَرْبَعًا حَتَّى بَلَغَ ذَلِكَ عَبْدَ اللَّهِ فَقَالَ لَقَدْ صَلَّيْتُ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم رَكْعَتَيْنِ ‏.‏",
+    "grade": {
+      "label": "Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Sahih",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1450",
+    "url": "https://sunnetimiz.com/nesai:1450",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 15,
+      "title": "Yolculukta Namazı Kısaltma",
+      "title_ar": "كتاب تقصير الصلاة فى السفر"
+    },
+    "bab": {
+      "number": 2,
+      "title_ar": "بَابُ: الصَّلَاةِ بِمِنًى"
+    },
+    "number": "1450",
+    "turkish": "İbn Ömer (radıyallahü anh)’den rivâyete göre, şöyle demiştir: “ Rasûlullah (sallallahü aleyhi ve sellem) ile birlikte Mina’da namazları iki rekat olarak kıldım. Ebu Bekir ve Ömer’le de yine iki rekat olarak kıldım.” ( Tirmizî , Hac: 52; Buhârî , Hac: 84 )",
+    "arabic": "أَخْبَرَنَا عُبَيْدُ اللَّهِ بْنُ سَعِيدٍ، قَالَ أَنْبَأَنَا يَحْيَى، عَنْ عُبَيْدِ اللَّهِ، عَنْ نَافِعٍ، عَنِ ابْنِ عُمَرَ، قَالَ صَلَّيْتُ مَعَ النَّبِيِّ صلى الله عليه وسلم بِمِنًى رَكْعَتَيْنِ وَمَعَ أَبِي بَكْرٍ - رضى الله عنه - رَكْعَتَيْنِ وَمَعَ عُمَرَ - رضى الله عنه - رَكْعَتَيْنِ ‏.‏",
+    "grade": {
+      "label": "Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Sahih",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1451",
+    "url": "https://sunnetimiz.com/nesai:1451",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 15,
+      "title": "Yolculukta Namazı Kısaltma",
+      "title_ar": "كتاب تقصير الصلاة فى السفر"
+    },
+    "bab": {
+      "number": 2,
+      "title_ar": "بَابُ: الصَّلَاةِ بِمِنًى"
+    },
+    "number": "1451",
+    "turkish": "Abdullah b. Ömer (radıyallahü anh) babasından naklederek şöyle diyor: “Peygamber (sallallahü aleyhi ve sellem), Mina’da bize namazları iki rekat olarak kıldırdı. Ebu Bekir’de, Ömer’de iki rekat olarak kıldırdılar. Osman ise h ali feliğinin ilk dönemlerinde iki rekat olarak kıldırmıştı (Sonraları bedeviler, namaz iki rekat olarak kılınacakmış zannederek memleketlerinde de iki rekat vakit namazlarını kıldıklarını duyunca, Osman, Mina’da da namazları dört kıldırmıştı.) ( Tirmizî , Hac: 52; Buhârî , Hac: 84)",
+    "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ سَلَمَةَ، قَالَ حَدَّثَنَا ابْنُ وَهْبٍ، عَنْ يُونُسَ، عَنِ ابْنِ شِهَابٍ، قَالَ أَخْبَرَنِي عُبَيْدُ اللَّهِ بْنُ عَبْدِ اللَّهِ بْنِ عُمَرَ، عَنْ أَبِيهِ، قَالَ صَلَّى رَسُولُ اللَّهِ صلى الله عليه وسلم بِمِنًى رَكْعَتَيْنِ وَصَلاَّهَا أَبُو بَكْرٍ رَكْعَتَيْنِ وَصَلاَّهَا عُمَرُ رَكْعَتَيْنِ وَصَلاَّهَا عُثْمَانُ صَدْرًا مِنْ خِلاَفَتِهِ ‏.‏",
+    "grade": {
+      "label": "Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Sahih",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1452",
+    "url": "https://sunnetimiz.com/nesai:1452",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 15,
+      "title": "Yolculukta Namazı Kısaltma",
+      "title_ar": "كتاب تقصير الصلاة فى السفر"
+    },
+    "bab": {
+      "number": 3,
+      "title_ar": "بَابُ: الْمَقَامِ الَّذِي يُقْصَرُ بِمِثْلِهِ الصَّلَاةُ"
+    },
+    "number": "1452",
+    "turkish": "Enes b. M ali k (radıyallahü anh)’ten rivâyete göre, şöyle demiştir: Rasûlullah (sallallahü aleyhi ve sellem) ile birlikte Medine’den Mekke’ye yola çıkmıştık, dönünceye kadar bize namazları ikişer rekat olarak kıldırmıştı. Ebu İshak , Enes’e: Mekke de ne kadar kalmıştınız diye sordu. Enes’te on gün kaldık diye cevap verdi. ( İbn Mâce , İkametü’s Salat : 76; Müslim, Salatül Müsafirin : 1)",
+    "arabic": "أَخْبَرَنَا حُمَيْدُ بْنُ مَسْعَدَةَ، قَالَ حَدَّثَنَا يَزِيدُ، قَالَ أَنْبَأَنَا يَحْيَى بْنُ أَبِي إِسْحَاقَ، عَنْ أَنَسِ بْنِ مَالِكٍ، قَالَ خَرَجْنَا مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم مِنَ الْمَدِينَةِ إِلَى مَكَّةَ فَكَانَ يُصَلِّي بِنَا رَكْعَتَيْنِ حَتَّى رَجَعْنَا ‏.‏ قُلْتُ هَلْ أَقَامَ بِمَكَّةَ قَالَ نَعَمْ أَقَمْنَا بِهَا عَشْرًا ‏.‏",
+    "grade": {
+      "label": "Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Sahih",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1453",
+    "url": "https://sunnetimiz.com/nesai:1453",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 15,
+      "title": "Yolculukta Namazı Kısaltma",
+      "title_ar": "كتاب تقصير الصلاة فى السفر"
+    },
+    "bab": {
+      "number": 3,
+      "title_ar": "بَابُ: الْمَقَامِ الَّذِي يُقْصَرُ بِمِثْلِهِ الصَّلَاةُ"
+    },
+    "number": "1453",
+    "turkish": "İbn Abbas (radıyallahü anh)’tan rivâyete göre, Rasûlullah (sallallahü aleyhi ve sellem), Mekke’de on beş gün kaldı ve bu arada namazlarını ikişer rekat olarak kıldı. ( Buhârî , Megazi : 54; İbn Mâce , İkametü’s Salat : 76)",
+    "arabic": "أَخْبَرَنَا عَبْدُ الرَّحْمَنِ بْنُ الأَسْوَدِ الْبَصْرِيُّ، قَالَ حَدَّثَنَا مُحَمَّدُ بْنُ رَبِيعَةَ، عَنْ عَبْدِ الْحَمِيدِ بْنِ جَعْفَرٍ، عَنْ يَزِيدَ بْنِ أَبِي حَبِيبٍ، عَنْ عِرَاكِ بْنِ مَالِكٍ، عَنْ عُبَيْدِ اللَّهِ بْنِ عَبْدِ اللَّهِ، عَنِ ابْنِ عَبَّاسٍ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم أَقَامَ بِمَكَّةَ خَمْسَةَ عَشَرَ يُصَلِّي رَكْعَتَيْنِ رَكْعَتَيْنِ ‏.‏",
+    "grade": {
+      "label": "Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Sahih",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1454",
+    "url": "https://sunnetimiz.com/nesai:1454",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 15,
+      "title": "Yolculukta Namazı Kısaltma",
+      "title_ar": "كتاب تقصير الصلاة فى السفر"
+    },
+    "bab": {
+      "number": 3,
+      "title_ar": "بَابُ: الْمَقَامِ الَّذِي يُقْصَرُ بِمِثْلِهِ الصَّلَاةُ"
+    },
+    "number": "1454",
+    "turkish": "Âlâ b. Hadramî (radıyallahü anh)’den rivâyete göre, şöyle diyor: Rasûlullah (sallallahü aleyhi ve sellem) şöyle buyurdu: “Muhacirler hac işleri bittikten sonra Mekkede üç gün kalırlar.” ( Dârimi , Salat : 180; Müslim, Hac: 81)",
+    "arabic": "أَخْبَرَنَا مُحَمَّدُ بْنُ عَبْدِ الْمَلِكِ بْنِ زَنْجَوَيْهِ، عَنْ عَبْدِ الرَّزَّاقِ، عَنِ ابْنِ جُرَيْجٍ، قَالَ أَخْبَرَنِي إِسْمَاعِيلُ بْنُ مُحَمَّدِ بْنِ سَعْدٍ، أَنَّ حُمَيْدَ بْنَ عَبْدِ الرَّحْمَنِ، أَخْبَرَهُ أَنَّ السَّائِبَ بْنَ يَزِيدَ أَخْبَرَهُ أَنَّهُ، سَمِعَ الْعَلاَءَ بْنَ الْحَضْرَمِيِّ، يَقُولُ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏ \"‏ يَمْكُثُ الْمُهَاجِرُ بَعْدَ قَضَاءِ نُسُكِهِ ثَلاَثًا ‏\"‏ ‏.‏",
+    "grade": {
+      "label": "Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Sahih",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1455",
+    "url": "https://sunnetimiz.com/nesai:1455",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 15,
+      "title": "Yolculukta Namazı Kısaltma",
+      "title_ar": "كتاب تقصير الصلاة فى السفر"
+    },
+    "bab": {
+      "number": 3,
+      "title_ar": "بَابُ: الْمَقَامِ الَّذِي يُقْصَرُ بِمِثْلِهِ الصَّلَاةُ"
+    },
+    "number": "1455",
+    "turkish": "Âlâ b. Hadramî (radıyallahü anh)’den rivâyete göre, şöyle demiştir: Rasûlullah (sallallahü aleyhi ve sellem) şöyle buyurdu: “Muhacirler Hac menâsikini bitirdikten sonra Mekkede üç gün kalırlar.” ( Dârimi , Salat : 180; Müslim, Hac: 81)",
+    "arabic": "أَخْبَرَنَا أَبُو عَبْدِ الرَّحْمَنِ، قَالَ الْحَارِثُ بْنُ مِسْكِينٍ قِرَاءَةً عَلَيْهِ وَأَنَا أَسْمَعُ، فِي حَدِيثِهِ عَنْ سُفْيَانَ، عَنْ عَبْدِ الرَّحْمَنِ بْنِ حُمَيْدٍ، عَنِ السَّائِبِ بْنِ يَزِيدَ، عَنِ الْعَلاَءِ بْنِ الْحَضْرَمِيِّ، قَالَ قَالَ النَّبِيُّ صلى الله عليه وسلم ‏ \"‏ يَمْكُثُ الْمُهَاجِرُ بِمَكَّةَ بَعْدَ نُسُكِهِ ثَلاَثًا ‏\"‏ ‏.‏",
+    "grade": {
+      "label": "Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Sahih",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1456",
+    "url": "https://sunnetimiz.com/nesai:1456",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 15,
+      "title": "Yolculukta Namazı Kısaltma",
+      "title_ar": "كتاب تقصير الصلاة فى السفر"
+    },
+    "bab": {
+      "number": 3,
+      "title_ar": "بَابُ: الْمَقَامِ الَّذِي يُقْصَرُ بِمِثْلِهِ الصَّلَاةُ"
+    },
+    "number": "1456",
+    "turkish": "Aişe (radıyallahü anha)’dan rivâyete göre, şöyle demiştir: Rasûlullah (sallallahü aleyhi ve sellem) ile beraber umre için Medine’den Mekke’ye gittik. Mekke’ye varınca: “Anam babam Sana feda olsun Ey Allah’ın Rasûlü ! Sen namazları kısalttın, ikişer rekat kıldın, ben ise dört kıldım. Sen iftar ettin, ben ise oruç tuttum” dedim. Peygamber (sallallahü aleyhi ve sellem) yaptığımdan dolayı beni ayıplamadı ve bana iyi ettin dedi.” (Sadece Nesâi rivâyet etmiştir.)",
+    "arabic": "أَخْبَرَنِي أَحْمَدُ بْنُ يَحْيَى الصُّوفِيُّ، قَالَ حَدَّثَنَا أَبُو نُعَيْمٍ، قَالَ حَدَّثَنَا الْعَلاَءُ بْنُ زُهَيْرٍ الأَزْدِيُّ، قَالَ حَدَّثَنَا عَبْدُ الرَّحْمَنِ بْنُ الأَسْوَدِ، عَنْ عَائِشَةَ، أَنَّهَا اعْتَمَرَتْ مَعَ رَسُولِ اللَّهِ صلى الله عليه وسلم مِنَ الْمَدِينَةِ إِلَى مَكَّةَ حَتَّى إِذَا قَدِمَتْ مَكَّةَ قَالَتْ يَا رَسُولَ اللَّهِ بِأَبِي أَنْتَ وَأُمِّي قَصَرْتَ وَأَتْمَمْتُ وَأَفْطَرْتَ وَصُمْتُ ‏.‏ قَالَ ‏ \"‏ أَحْسَنْتِ يَا عَائِشَةُ ‏\"‏ ‏.‏ وَمَا عَابَ عَلَىَّ ‏.‏",
+    "grade": {
+      "label": "Münker",
+      "by": "el-Elbânî",
+      "tone": "severe"
+    },
+    "grade_source": {
+      "grade": "Munkar",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1457",
+    "url": "https://sunnetimiz.com/nesai:1457",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 15,
+      "title": "Yolculukta Namazı Kısaltma",
+      "title_ar": "كتاب تقصير الصلاة فى السفر"
+    },
+    "bab": {
+      "number": 3,
+      "title_ar": "بَابُ: الْمَقَامِ الَّذِي يُقْصَرُ بِمِثْلِهِ الصَّلَاةُ"
+    },
+    "number": "1457",
+    "turkish": "Vebere b. Abdurrahman (radıyallahü anh)’dan rivâyete göre, şöyle demiştir: İbn Ömer yolculukta namazları iki rekattan fazla kılmazdı. Bu kıldığı farz namazların ne önünde ne de arkasında sünnet namaz kılmazdı. Niçin böyle kılıyorsun? Denildiğinde de Rasûlullah (sallallahü aleyhi ve sellem)’in böyle yaptığını gördüm diye cevap verirdi. (Müslim, Salatül Müsafirin : 1; İbn Mâce , İkametü’s Salat : 75)",
+    "arabic": "أَخْبَرَنِي أَحْمَدُ بْنُ يَحْيَى، قَالَ حَدَّثَنَا أَبُو نُعَيْمٍ، قَالَ حَدَّثَنَا الْعَلاَءُ بْنُ زُهَيْرٍ، قَالَ حَدَّثَنَا وَبَرَةُ بْنُ عَبْدِ الرَّحْمَنِ، قَالَ كَانَ ابْنُ عُمَرَ لاَ يَزِيدُ فِي السَّفَرِ عَلَى رَكْعَتَيْنِ لاَ يُصَلِّي قَبْلَهَا وَلاَ بَعْدَهَا ‏.‏ فَقِيلَ لَهُ مَا هَذَا قَالَ هَكَذَا رَأَيْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم يَصْنَعُ ‏.‏",
+    "grade": {
+      "label": "Hasen-Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Hasan Sahih",
+      "grader": "Al-Albani"
+    }
+  },
+  {
+    "ref": "nesai:1458",
+    "url": "https://sunnetimiz.com/nesai:1458",
+    "book": {
+      "slug": "nesai",
+      "name": "Sünen-i Nesâî",
+      "name_ar": "سنن النسائي"
+    },
+    "kitab": {
+      "number": 15,
+      "title": "Yolculukta Namazı Kısaltma",
+      "title_ar": "كتاب تقصير الصلاة فى السفر"
+    },
+    "bab": {
+      "number": 3,
+      "title_ar": "بَابُ: الْمَقَامِ الَّذِي يُقْصَرُ بِمِثْلِهِ الصَّلَاةُ"
+    },
+    "number": "1458",
+    "turkish": "İbn Ömer (radıyallahü anh)’den rivâyete göre, şöyle demiştir: sallallahü aleyhi ve sellem)’i, eşeği üzerinde Hayber tarafına doğru nafile namaz kılarken gördüm.) (Dârimi, Salat: 181; Müslim, Mesacid:)",
+    "arabic": "أَخْبَرَنِي نُوحُ بْنُ حَبِيبٍ، قَالَ حَدَّثَنَا يَحْيَى بْنُ سَعِيدٍ، قَالَ حَدَّثَنَا عِيسَى بْنُ حَفْصِ بْنِ عَاصِمٍ، قَالَ حَدَّثَنِي أَبِي قَالَ، كُنْتُ مَعَ ابْنِ عُمَرَ فِي سَفَرٍ فَصَلَّى الظُّهْرَ وَالْعَصْرَ رَكْعَتَيْنِ ثُمَّ انْصَرَفَ إِلَى طِنْفِسَةٍ لَهُ فَرَأَى قَوْمًا يُسَبِّحُونَ قَالَ مَا يَصْنَعُ هَؤُلاَءِ قُلْتُ يُسَبِّحُونَ ‏.‏ قَالَ لَوْ كُنْتُ مُصَلِّيًا قَبْلَهَا أَوْ بَعْدَهَا لأَتْمَمْتُهَا صَحِبْتُ رَسُولَ اللَّهِ صلى الله عليه وسلم فَكَانَ لاَ يَزِيدُ فِي السَّفَرِ عَلَى الرَّكْعَتَيْنِ وَأَبَا بَكْرٍ حَتَّى قُبِضَ وَعُمَرَ وَعُثْمَانَ - رضى الله عنهم - كَذَلِكَ ‏.‏",
+    "grade": {
+      "label": "Sahih",
+      "by": "el-Elbânî",
+      "tone": "sahih"
+    },
+    "grade_source": {
+      "grade": "Sahih",
+      "grader": "Al-Albani"
+    }
+  }
+]

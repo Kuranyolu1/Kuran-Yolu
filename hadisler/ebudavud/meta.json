@@ -1,0 +1,355 @@
+{
+  "slug": "ebudavud",
+  "name": "Sünen-i Ebû Dâvûd",
+  "arabicName": "سنن أبي داود",
+  "author": "İmâm Süleymân b. Eş'as es-Sicistânî",
+  "hadith_count": 5274,
+  "totalKitabs": 43,
+  "isComplete": true,
+  "kitabs": [
+    {
+      "number": 1,
+      "title": "Tahâret",
+      "title_ar": "كتاب الطهارة",
+      "hadith_count": 390,
+      "first": "1",
+      "last": "390"
+    },
+    {
+      "number": 2,
+      "title": "Namaz",
+      "title_ar": "كتاب الصلاة",
+      "hadith_count": 770,
+      "first": "391",
+      "last": "1160"
+    },
+    {
+      "number": 3,
+      "title": "Yağmur Namazı",
+      "title_ar": "كتاب الاستسقاء",
+      "hadith_count": 37,
+      "first": "1161",
+      "last": "1197"
+    },
+    {
+      "number": 4,
+      "title": "Namaz: Yolculukta Namazın Hükümleri",
+      "title_ar": "كتاب صلاة السفر",
+      "hadith_count": 52,
+      "first": "1198",
+      "last": "1249"
+    },
+    {
+      "number": 5,
+      "title": "Namaz: Nâfile Namazlar",
+      "title_ar": "كتاب التطوع",
+      "hadith_count": 121,
+      "first": "1250",
+      "last": "1370"
+    },
+    {
+      "number": 6,
+      "title": "Namaz: Ramazan Namazının Hükümleri",
+      "title_ar": "كتاب شهر رمضان",
+      "hadith_count": 30,
+      "first": "1371",
+      "last": "1400"
+    },
+    {
+      "number": 7,
+      "title": "Namaz: Kur'ân Okurken Secde",
+      "title_ar": "كتاب سجود القرآن",
+      "hadith_count": 15,
+      "first": "1401",
+      "last": "1415"
+    },
+    {
+      "number": 8,
+      "title": "Namaz: Vitir Namazı",
+      "title_ar": "كتاب الوتر",
+      "hadith_count": 140,
+      "first": "1416",
+      "last": "1555"
+    },
+    {
+      "number": 9,
+      "title": "Zekât",
+      "title_ar": "كتاب الزكاة",
+      "hadith_count": 145,
+      "first": "1556",
+      "last": "1700"
+    },
+    {
+      "number": 10,
+      "title": "Buluntu Eşya (Lukata)",
+      "title_ar": "كتاب اللقطة",
+      "hadith_count": 20,
+      "first": "1701",
+      "last": "1720"
+    },
+    {
+      "number": 11,
+      "title": "Hac Menâsiki",
+      "title_ar": "كتاب المناسك",
+      "hadith_count": 325,
+      "first": "1721",
+      "last": "2045"
+    },
+    {
+      "number": 12,
+      "title": "Nikâh",
+      "title_ar": "كتاب النكاح",
+      "hadith_count": 129,
+      "first": "2046",
+      "last": "2174"
+    },
+    {
+      "number": 13,
+      "title": "Talâk",
+      "title_ar": "كتاب الطلاق",
+      "hadith_count": 138,
+      "first": "2175",
+      "last": "2312"
+    },
+    {
+      "number": 14,
+      "title": "Oruç",
+      "title_ar": "كتاب الصوم",
+      "hadith_count": 164,
+      "first": "2313",
+      "last": "2476"
+    },
+    {
+      "number": 15,
+      "title": "Cihâd",
+      "title_ar": "كتاب الجهاد",
+      "hadith_count": 311,
+      "first": "2477",
+      "last": "2787"
+    },
+    {
+      "number": 16,
+      "title": "Kurban",
+      "title_ar": "كتاب الضحايا",
+      "hadith_count": 56,
+      "first": "2788",
+      "last": "2843"
+    },
+    {
+      "number": 17,
+      "title": "Av",
+      "title_ar": "كتاب الصيد",
+      "hadith_count": 18,
+      "first": "2844",
+      "last": "2861"
+    },
+    {
+      "number": 18,
+      "title": "Vasiyyetler",
+      "title_ar": "كتاب الوصايا",
+      "hadith_count": 23,
+      "first": "2862",
+      "last": "2884"
+    },
+    {
+      "number": 19,
+      "title": "Mîrâs Payları",
+      "title_ar": "كتاب الفرائض",
+      "hadith_count": 43,
+      "first": "2885",
+      "last": "2927"
+    },
+    {
+      "number": 20,
+      "title": "Haraç, Ganîmet ve İmâret",
+      "title_ar": "كتاب الخراج والإمارة والفىء",
+      "hadith_count": 161,
+      "first": "2928",
+      "last": "3088"
+    },
+    {
+      "number": 21,
+      "title": "Cenâzeler",
+      "title_ar": "كتاب الجنائز",
+      "hadith_count": 153,
+      "first": "3089",
+      "last": "3241"
+    },
+    {
+      "number": 22,
+      "title": "Yeminler ve Adaklar",
+      "title_ar": "كتاب الأيمان والنذور",
+      "hadith_count": 84,
+      "first": "3242",
+      "last": "3325"
+    },
+    {
+      "number": 23,
+      "title": "Ticârî Muâmeleler",
+      "title_ar": "كتاب البيوع",
+      "hadith_count": 90,
+      "first": "3326",
+      "last": "3415"
+    },
+    {
+      "number": 24,
+      "title": "Ücretler (İcâre)",
+      "title_ar": "كتاب الإجارة",
+      "hadith_count": 155,
+      "first": "3416",
+      "last": "3570"
+    },
+    {
+      "number": 25,
+      "title": "Kadılık",
+      "title_ar": "كتاب الأقضية",
+      "hadith_count": 70,
+      "first": "3571",
+      "last": "3640"
+    },
+    {
+      "number": 26,
+      "title": "İlim",
+      "title_ar": "كتاب العلم",
+      "hadith_count": 28,
+      "first": "3641",
+      "last": "3668"
+    },
+    {
+      "number": 27,
+      "title": "İçecekler",
+      "title_ar": "كتاب الأشربة",
+      "hadith_count": 67,
+      "first": "3669",
+      "last": "3735"
+    },
+    {
+      "number": 28,
+      "title": "Yiyecekler",
+      "title_ar": "كتاب الأطعمة",
+      "hadith_count": 119,
+      "first": "3736",
+      "last": "3854"
+    },
+    {
+      "number": 29,
+      "title": "Tıp",
+      "title_ar": "كتاب الطب",
+      "hadith_count": 49,
+      "first": "3855",
+      "last": "3903"
+    },
+    {
+      "number": 30,
+      "title": "Fal ve Uğursuzluk",
+      "title_ar": "كتاب الكهانة و التطير",
+      "hadith_count": 22,
+      "first": "3904",
+      "last": "3925"
+    },
+    {
+      "number": 31,
+      "title": "Köle Azâdı",
+      "title_ar": "كتاب العتق",
+      "hadith_count": 43,
+      "first": "3926",
+      "last": "3968"
+    },
+    {
+      "number": 32,
+      "title": "Kıraat Vecihleri",
+      "title_ar": "كتاب الحروف والقراءات",
+      "hadith_count": 40,
+      "first": "3969",
+      "last": "4008"
+    },
+    {
+      "number": 33,
+      "title": "Hamamlar",
+      "title_ar": "كتاب الحمَّام",
+      "hadith_count": 11,
+      "first": "4009",
+      "last": "4019"
+    },
+    {
+      "number": 34,
+      "title": "Elbise",
+      "title_ar": "كتاب اللباس",
+      "hadith_count": 139,
+      "first": "4020",
+      "last": "4158"
+    },
+    {
+      "number": 35,
+      "title": "Saç Tarama",
+      "title_ar": "كتاب الترجل",
+      "hadith_count": 55,
+      "first": "4159",
+      "last": "4213"
+    },
+    {
+      "number": 36,
+      "title": "Yüzükler",
+      "title_ar": "كتاب الخاتم",
+      "hadith_count": 26,
+      "first": "4214",
+      "last": "4239"
+    },
+    {
+      "number": 37,
+      "title": "Fitneler ve Büyük Savaşlar",
+      "title_ar": "كتاب الفتن والملاحم",
+      "hadith_count": 39,
+      "first": "4240",
+      "last": "4278"
+    },
+    {
+      "number": 38,
+      "title": "Mehdî",
+      "title_ar": "كتاب المهدى",
+      "hadith_count": 12,
+      "first": "4279",
+      "last": "4290"
+    },
+    {
+      "number": 39,
+      "title": "Savaşlar (Melâhim)",
+      "title_ar": "كتاب الملاحم",
+      "hadith_count": 60,
+      "first": "4291",
+      "last": "4350"
+    },
+    {
+      "number": 40,
+      "title": "Had Cezâları",
+      "title_ar": "كتاب الحدود",
+      "hadith_count": 143,
+      "first": "4351",
+      "last": "4493"
+    },
+    {
+      "number": 41,
+      "title": "Diyet Çeşitleri",
+      "title_ar": "كتاب الديات",
+      "hadith_count": 102,
+      "first": "4494",
+      "last": "4595"
+    },
+    {
+      "number": 42,
+      "title": "Sünnet (Peygamber'in Yolu)",
+      "title_ar": "كتاب السنة",
+      "hadith_count": 177,
+      "first": "4596",
+      "last": "4772"
+    },
+    {
+      "number": 43,
+      "title": "Genel Âdâb",
+      "title_ar": "كتاب الأدب",
+      "hadith_count": 502,
+      "first": "4773",
+      "last": "5274"
+    }
+  ]
+}

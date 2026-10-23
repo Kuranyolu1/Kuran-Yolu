@@ -1,0 +1,787 @@
+{
+  "slug": "buhari",
+  "name": "Sahih-i Buhârî",
+  "arabicName": "صحيح البخاري",
+  "author": "İmâm Muhammed b. İsmâîl el-Buhârî",
+  "hadith_count": 7583,
+  "totalKitabs": 97,
+  "isComplete": true,
+  "kitabs": [
+    {
+      "number": 1,
+      "title": "Vahyin Başlangıcı",
+      "title_ar": "كتاب بدء الوحي",
+      "hadith_count": 7,
+      "first": "1",
+      "last": "7"
+    },
+    {
+      "number": 2,
+      "title": "Îmân",
+      "title_ar": "كتاب الإيمان",
+      "hadith_count": 51,
+      "first": "8",
+      "last": "58"
+    },
+    {
+      "number": 3,
+      "title": "İlim",
+      "title_ar": "كتاب العلم",
+      "hadith_count": 76,
+      "first": "59",
+      "last": "134"
+    },
+    {
+      "number": 4,
+      "title": "Abdest",
+      "title_ar": "كتاب الوضوء",
+      "hadith_count": 113,
+      "first": "135",
+      "last": "247"
+    },
+    {
+      "number": 5,
+      "title": "Gusül",
+      "title_ar": "كتاب الغسل",
+      "hadith_count": 46,
+      "first": "248",
+      "last": "293"
+    },
+    {
+      "number": 6,
+      "title": "Hayız",
+      "title_ar": "كتاب الحيض",
+      "hadith_count": 40,
+      "first": "294",
+      "last": "333"
+    },
+    {
+      "number": 7,
+      "title": "Teyemmüm",
+      "title_ar": "كتاب التيمم",
+      "hadith_count": 15,
+      "first": "334",
+      "last": "348"
+    },
+    {
+      "number": 8,
+      "title": "Namaz",
+      "title_ar": "كتاب الصلاة",
+      "hadith_count": 174,
+      "first": "349",
+      "last": "521"
+    },
+    {
+      "number": 9,
+      "title": "Namaz Vakitleri",
+      "title_ar": "كتاب مواقيت الصلاة",
+      "hadith_count": 81,
+      "first": "522",
+      "last": "602"
+    },
+    {
+      "number": 10,
+      "title": "Ezan",
+      "title_ar": "كتاب الأذان",
+      "hadith_count": 275,
+      "first": "603",
+      "last": "875"
+    },
+    {
+      "number": 11,
+      "title": "Cuma",
+      "title_ar": "كتاب الجمعة",
+      "hadith_count": 66,
+      "first": "876",
+      "last": "941"
+    },
+    {
+      "number": 12,
+      "title": "Korku Namazı",
+      "title_ar": "كتاب صلاة الخوف",
+      "hadith_count": 6,
+      "first": "942",
+      "last": "947"
+    },
+    {
+      "number": 13,
+      "title": "İki Bayram (iydeyn)",
+      "title_ar": "كتاب العيدين",
+      "hadith_count": 42,
+      "first": "948",
+      "last": "989"
+    },
+    {
+      "number": 14,
+      "title": "Vitir Namazı",
+      "title_ar": "كتاب الوتر",
+      "hadith_count": 15,
+      "first": "990",
+      "last": "1004"
+    },
+    {
+      "number": 15,
+      "title": "Yağmur Duası (Istiskaa)",
+      "title_ar": "كتاب الاستسقاء",
+      "hadith_count": 35,
+      "first": "1005",
+      "last": "1039"
+    },
+    {
+      "number": 16,
+      "title": "Güneş ve Ay Tutulması",
+      "title_ar": "كتاب الكسوف",
+      "hadith_count": 27,
+      "first": "1040",
+      "last": "1066"
+    },
+    {
+      "number": 17,
+      "title": "Kur'ân Okurken Secde Edilecek Yerlerler",
+      "title_ar": "كتاب سجود القرآن",
+      "hadith_count": 13,
+      "first": "1067",
+      "last": "1079"
+    },
+    {
+      "number": 18,
+      "title": "Namazın Kısaltılması (At-Taksir)",
+      "title_ar": "كتاب التقصير",
+      "hadith_count": 40,
+      "first": "1080",
+      "last": "1119"
+    },
+    {
+      "number": 19,
+      "title": "Gece Namazı (Teheccüd)",
+      "title_ar": "كتاب التهجد",
+      "hadith_count": 69,
+      "first": "1120",
+      "last": "1187"
+    },
+    {
+      "number": 20,
+      "title": "Mekke ve Medîne Mescidlerinde Kılınan Namazın Fazîleti",
+      "title_ar": "كتاب فضل الصلاة فى مسجد مكة والمدينة",
+      "hadith_count": 10,
+      "first": "1188",
+      "last": "1197"
+    },
+    {
+      "number": 21,
+      "title": "Namaz İçinde Ameller",
+      "title_ar": "كتاب العمل فى الصلاة",
+      "hadith_count": 27,
+      "first": "1198",
+      "last": "1223"
+    },
+    {
+      "number": 22,
+      "title": "Namazda Unutkanlık",
+      "title_ar": "كتاب السهو",
+      "hadith_count": 14,
+      "first": "1224",
+      "last": "1236"
+    },
+    {
+      "number": 23,
+      "title": "Cenazeler",
+      "title_ar": "كتاب الجنائز",
+      "hadith_count": 160,
+      "first": "1237",
+      "last": "1394"
+    },
+    {
+      "number": 24,
+      "title": "Zekât",
+      "title_ar": "كتاب الزكاة",
+      "hadith_count": 118,
+      "first": "1395",
+      "last": "1512"
+    },
+    {
+      "number": 25,
+      "title": "Hacc",
+      "title_ar": "كتاب الحج",
+      "hadith_count": 260,
+      "first": "1513",
+      "last": "1772"
+    },
+    {
+      "number": 26,
+      "title": "Umre",
+      "title_ar": "كتاب العمرة",
+      "hadith_count": 33,
+      "first": "1773",
+      "last": "1805"
+    },
+    {
+      "number": 27,
+      "title": "Hac Yolculuğunu Tamamlamaktan Engellenen Hacılar",
+      "title_ar": "كتاب المحصر",
+      "hadith_count": 15,
+      "first": "1806",
+      "last": "1820"
+    },
+    {
+      "number": 28,
+      "title": "Hacda Avlanma Cezası",
+      "title_ar": "كتاب جزاء الصيد",
+      "hadith_count": 46,
+      "first": "1821",
+      "last": "1866"
+    },
+    {
+      "number": 29,
+      "title": "Medine'nin Faziletleri",
+      "title_ar": "كتاب فضائل المدينة",
+      "hadith_count": 24,
+      "first": "1867",
+      "last": "1890"
+    },
+    {
+      "number": 30,
+      "title": "Oruç Tutmak",
+      "title_ar": "كتاب الصوم",
+      "hadith_count": 117,
+      "first": "1891",
+      "last": "2007"
+    },
+    {
+      "number": 31,
+      "title": "Teravih Namazı",
+      "title_ar": "كتاب صلاة التراويح",
+      "hadith_count": 6,
+      "first": "2008",
+      "last": "2013"
+    },
+    {
+      "number": 32,
+      "title": "Kadir Gecesinin Fazileti",
+      "title_ar": "كتاب فضل ليلة القدر",
+      "hadith_count": 11,
+      "first": "2014",
+      "last": "2024"
+    },
+    {
+      "number": 33,
+      "title": "Ramazânın Son On Gününde İ'tikâf",
+      "title_ar": "كتاب الاعتكاف",
+      "hadith_count": 22,
+      "first": "2025",
+      "last": "2046"
+    },
+    {
+      "number": 34,
+      "title": "Alışverişler",
+      "title_ar": "كتاب البيوع",
+      "hadith_count": 193,
+      "first": "2047",
+      "last": "2238"
+    },
+    {
+      "number": 35,
+      "title": "Sonradan Teslim Edilecek Mallar İçin Bedel Ödenen Satışlar (Selem Akdi)",
+      "title_ar": "كتاب السلم",
+      "hadith_count": 20,
+      "first": "2239",
+      "last": "2256"
+    },
+    {
+      "number": 36,
+      "title": "Şuf’a",
+      "title_ar": "كتاب الشفعة",
+      "hadith_count": 3,
+      "first": "2257",
+      "last": "2259"
+    },
+    {
+      "number": 37,
+      "title": "İcâre",
+      "title_ar": "كتاب الإجارة",
+      "hadith_count": 27,
+      "first": "2260",
+      "last": "2286"
+    },
+    {
+      "number": 38,
+      "title": "Havaleler",
+      "title_ar": "كتاب الحوالات",
+      "hadith_count": 3,
+      "first": "2287",
+      "last": "2289"
+    },
+    {
+      "number": 39,
+      "title": "Kefalet",
+      "title_ar": "كتاب الكفالة",
+      "hadith_count": 9,
+      "first": "2290",
+      "last": "2298"
+    },
+    {
+      "number": 40,
+      "title": "Vekâlet",
+      "title_ar": "كتاب الوكالة",
+      "hadith_count": 21,
+      "first": "2299",
+      "last": "2319"
+    },
+    {
+      "number": 41,
+      "title": "Ekincilik",
+      "title_ar": "كتاب المزارعة",
+      "hadith_count": 31,
+      "first": "2320",
+      "last": "2350"
+    },
+    {
+      "number": 42,
+      "title": "Su Dağıtımı",
+      "title_ar": "كتاب المساقاة",
+      "hadith_count": 34,
+      "first": "2351",
+      "last": "2384"
+    },
+    {
+      "number": 43,
+      "title": "Borç, Borç Ödenmesi, Malın Dondurulması, İflas",
+      "title_ar": "كتاب فى الاستقراض",
+      "hadith_count": 25,
+      "first": "2385",
+      "last": "2409"
+    },
+    {
+      "number": 44,
+      "title": "Hukukî Çekişmeler (Husûmât)",
+      "title_ar": "كتاب الخصومات",
+      "hadith_count": 16,
+      "first": "2410",
+      "last": "2425"
+    },
+    {
+      "number": 45,
+      "title": "Yerde Bulunup Kaldırılan Şeyler (Lukata)",
+      "title_ar": "كتاب فى اللقطة",
+      "hadith_count": 15,
+      "first": "2426",
+      "last": "2439"
+    },
+    {
+      "number": 46,
+      "title": "Zulümler ve Gasb",
+      "title_ar": "كتاب المظالم",
+      "hadith_count": 43,
+      "first": "2440",
+      "last": "2482"
+    },
+    {
+      "number": 47,
+      "title": "Ortaklık",
+      "title_ar": "كتاب الشركة",
+      "hadith_count": 25,
+      "first": "2483",
+      "last": "2507"
+    },
+    {
+      "number": 48,
+      "title": "Rehin",
+      "title_ar": "كتاب الرهن",
+      "hadith_count": 9,
+      "first": "2508",
+      "last": "2516"
+    },
+    {
+      "number": 49,
+      "title": "Kölelerin Azat Edilmesi",
+      "title_ar": "كتاب العتق",
+      "hadith_count": 43,
+      "first": "2517",
+      "last": "2559"
+    },
+    {
+      "number": 50,
+      "title": "Mükâteb",
+      "title_ar": "كتاب المكاتب",
+      "hadith_count": 6,
+      "first": "2560",
+      "last": "2565"
+    },
+    {
+      "number": 51,
+      "title": "Hediyeler",
+      "title_ar": "كتاب الهبة وفضلها والتحريض عليها",
+      "hadith_count": 71,
+      "first": "2566",
+      "last": "2636"
+    },
+    {
+      "number": 52,
+      "title": "Şehâdetler",
+      "title_ar": "كتاب الشهادات",
+      "hadith_count": 53,
+      "first": "2637",
+      "last": "2689"
+    },
+    {
+      "number": 53,
+      "title": "Barış Sağlamak",
+      "title_ar": "كتاب الصلح",
+      "hadith_count": 22,
+      "first": "2690",
+      "last": "2711"
+    },
+    {
+      "number": 54,
+      "title": "Şartlar",
+      "title_ar": "كتاب الشروط",
+      "hadith_count": 26,
+      "first": "2712",
+      "last": "2737"
+    },
+    {
+      "number": 55,
+      "title": "Vasiyyetler",
+      "title_ar": "كتاب الوصايا",
+      "hadith_count": 44,
+      "first": "2738",
+      "last": "2781"
+    },
+    {
+      "number": 56,
+      "title": "Cihâd ve Sîretler",
+      "title_ar": "كتاب الجهاد والسير",
+      "hadith_count": 309,
+      "first": "2782",
+      "last": "3090"
+    },
+    {
+      "number": 57,
+      "title": "Ganimetin Beşte Biri",
+      "title_ar": "كتاب فرض الخمس",
+      "hadith_count": 66,
+      "first": "3091",
+      "last": "3156"
+    },
+    {
+      "number": 58,
+      "title": "Cizye ve Muvâde'a",
+      "title_ar": "كتاب الجزية والموادعة",
+      "hadith_count": 33,
+      "first": "3157",
+      "last": "3189"
+    },
+    {
+      "number": 59,
+      "title": "Yaratılışın Başlangıcı",
+      "title_ar": "كتاب بدء الخلق",
+      "hadith_count": 136,
+      "first": "3190",
+      "last": "3325"
+    },
+    {
+      "number": 60,
+      "title": "Peygamberler",
+      "title_ar": "كتاب أحاديث الأنبياء",
+      "hadith_count": 163,
+      "first": "3326",
+      "last": "3488"
+    },
+    {
+      "number": 61,
+      "title": "Peygamberin (ﷺ) ve Ashabının Faziletleri ve Meziyetleri",
+      "title_ar": "كتاب المناقب",
+      "hadith_count": 162,
+      "first": "3489",
+      "last": "3648"
+    },
+    {
+      "number": 62,
+      "title": "Peygamberin Sahabeleri",
+      "title_ar": "كتاب فضائل أصحاب النبى صلى الله عليه وسلم",
+      "hadith_count": 128,
+      "first": "3649",
+      "last": "3775"
+    },
+    {
+      "number": 63,
+      "title": "Medine'deki Yardımcıların (Ensar) Faziletleri",
+      "title_ar": "كتاب مناقب الأنصار",
+      "hadith_count": 173,
+      "first": "3776",
+      "last": "3948"
+    },
+    {
+      "number": 64,
+      "title": "Peygamber (ﷺ) Tarafından Yönetilen Askeri Seferler (El-Megazi)",
+      "title_ar": "كتاب المغازى",
+      "hadith_count": 526,
+      "first": "3949",
+      "last": "4473"
+    },
+    {
+      "number": 65,
+      "title": "Kur'an-ı Kerim 'in Peygamber ﷺ Tefsiri",
+      "title_ar": "كتاب التفسير",
+      "hadith_count": 507,
+      "first": "4474",
+      "last": "4978"
+    },
+    {
+      "number": 66,
+      "title": "Kur'ân’ın Faziletleri",
+      "title_ar": "كتاب فضائل القرآن",
+      "hadith_count": 87,
+      "first": "4979",
+      "last": "5062"
+    },
+    {
+      "number": 67,
+      "title": "Nikâh",
+      "title_ar": "كتاب النكاح",
+      "hadith_count": 188,
+      "first": "5063",
+      "last": "5250"
+    },
+    {
+      "number": 68,
+      "title": "Boşanmak",
+      "title_ar": "كتاب الطلاق",
+      "hadith_count": 100,
+      "first": "5251",
+      "last": "5350"
+    },
+    {
+      "number": 69,
+      "title": "Nafakalar",
+      "title_ar": "كتاب النفقات",
+      "hadith_count": 22,
+      "first": "5351",
+      "last": "5372"
+    },
+    {
+      "number": 70,
+      "title": "Yiyecek, Yemek",
+      "title_ar": "كتاب الأطعمة",
+      "hadith_count": 95,
+      "first": "5373",
+      "last": "5466"
+    },
+    {
+      "number": 71,
+      "title": "Akîka Kurbânı",
+      "title_ar": "كتاب العقيقة",
+      "hadith_count": 9,
+      "first": "5467",
+      "last": "5474"
+    },
+    {
+      "number": 72,
+      "title": "Avcılık, Kesim",
+      "title_ar": "كتاب الذبائح والصيد",
+      "hadith_count": 70,
+      "first": "5475",
+      "last": "5544"
+    },
+    {
+      "number": 73,
+      "title": "Udhiyeler",
+      "title_ar": "كتاب الأضاحي",
+      "hadith_count": 30,
+      "first": "5545",
+      "last": "5574"
+    },
+    {
+      "number": 74,
+      "title": "İçecekler",
+      "title_ar": "كتاب الأشربة",
+      "hadith_count": 65,
+      "first": "5575",
+      "last": "5639"
+    },
+    {
+      "number": 75,
+      "title": "Hastalar",
+      "title_ar": "كتاب المرضى",
+      "hadith_count": 38,
+      "first": "5640",
+      "last": "5677"
+    },
+    {
+      "number": 76,
+      "title": "Tıp",
+      "title_ar": "كتاب الطب",
+      "hadith_count": 101,
+      "first": "5678",
+      "last": "5782"
+    },
+    {
+      "number": 77,
+      "title": "Elbise",
+      "title_ar": "كتاب اللباس",
+      "hadith_count": 188,
+      "first": "5783",
+      "last": "5969"
+    },
+    {
+      "number": 78,
+      "title": "Edeb",
+      "title_ar": "كتاب الأدب",
+      "hadith_count": 255,
+      "first": "5970",
+      "last": "6226"
+    },
+    {
+      "number": 79,
+      "title": "İzin İsteme",
+      "title_ar": "كتاب الاستئذان",
+      "hadith_count": 77,
+      "first": "6227",
+      "last": "6303"
+    },
+    {
+      "number": 80,
+      "title": "Dualar",
+      "title_ar": "كتاب الدعوات",
+      "hadith_count": 108,
+      "first": "6304",
+      "last": "6411"
+    },
+    {
+      "number": 81,
+      "title": "Kalbi İnceltmek (Ar-Riqaq)",
+      "title_ar": "كتاب الرقاق",
+      "hadith_count": 182,
+      "first": "6412",
+      "last": "6593"
+    },
+    {
+      "number": 82,
+      "title": "Kader",
+      "title_ar": "كتاب القدر",
+      "hadith_count": 27,
+      "first": "6594",
+      "last": "6620"
+    },
+    {
+      "number": 83,
+      "title": "Yemînler ve Nezirler",
+      "title_ar": "كتاب الأيمان والنذور",
+      "hadith_count": 87,
+      "first": "6621",
+      "last": "6707"
+    },
+    {
+      "number": 84,
+      "title": "Yeminlerin Keffaretleri",
+      "title_ar": "كتاب كفارات الأيمان",
+      "hadith_count": 15,
+      "first": "6708",
+      "last": "6722"
+    },
+    {
+      "number": 85,
+      "title": "Mîrâs Payları (Ferîzalar)",
+      "title_ar": "كتاب الفرائض",
+      "hadith_count": 49,
+      "first": "6723",
+      "last": "6771"
+    },
+    {
+      "number": 86,
+      "title": "Allah Tarafından Belirlenen Sınırlar ve Cezalar (Hudûd)",
+      "title_ar": "كتاب الحدود",
+      "hadith_count": 89,
+      "first": "6772",
+      "last": "6860"
+    },
+    {
+      "number": 87,
+      "title": "Kan Parası (Ad-Diyat)",
+      "title_ar": "كتاب الديات",
+      "hadith_count": 59,
+      "first": "6861",
+      "last": "6917"
+    },
+    {
+      "number": 88,
+      "title": "Mürtedler",
+      "title_ar": "كتاب استتابة المرتدين والمعاندين وقتالهم",
+      "hadith_count": 22,
+      "first": "6918",
+      "last": "6939"
+    },
+    {
+      "number": 89,
+      "title": "Zorlama altında yapılan ifadeler",
+      "title_ar": "كتاب الإكراه",
+      "hadith_count": 13,
+      "first": "6940",
+      "last": "6952"
+    },
+    {
+      "number": 90,
+      "title": "Hileler",
+      "title_ar": "كتاب الحيل",
+      "hadith_count": 29,
+      "first": "6953",
+      "last": "6981"
+    },
+    {
+      "number": 91,
+      "title": "Ru'yâ Ta'bîri",
+      "title_ar": "كتاب التعبير",
+      "hadith_count": 66,
+      "first": "6982",
+      "last": "7047"
+    },
+    {
+      "number": 92,
+      "title": "Fitneler",
+      "title_ar": "كتاب الفتن",
+      "hadith_count": 89,
+      "first": "7048",
+      "last": "7136"
+    },
+    {
+      "number": 93,
+      "title": "Hükümler",
+      "title_ar": "كتاب الأحكام",
+      "hadith_count": 89,
+      "first": "7137",
+      "last": "7225"
+    },
+    {
+      "number": 94,
+      "title": "Temenni",
+      "title_ar": "كتاب التمنى",
+      "hadith_count": 20,
+      "first": "7226",
+      "last": "7245"
+    },
+    {
+      "number": 95,
+      "title": "Doğru Bir Kişi Tarafından Verilen Bilgiyi Kabul Etmek (Vâhidlerin)",
+      "title_ar": "كتاب أخبار الآحاد",
+      "hadith_count": 22,
+      "first": "7246",
+      "last": "7267"
+    },
+    {
+      "number": 96,
+      "title": "Kur'an ve Sünnete Sımsıkı Sarılmak",
+      "title_ar": "كتاب الاعتصام بالكتاب والسنة",
+      "hadith_count": 103,
+      "first": "7268",
+      "last": "7370"
+    },
+    {
+      "number": 97,
+      "title": "Allah'ı Birlemek (Tevhid)",
+      "title_ar": "كتاب التوحيد",
+      "hadith_count": 193,
+      "first": "7371",
+      "last": "7563"
+    }
+  ]
+}
